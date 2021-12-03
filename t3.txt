@@ -1,6 +1,4 @@
 $c_startMY$c_end
-!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
-!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 ASSP,mitv://51.81.90.178:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
 ASSP2,mitv://51.81.90.178:9906/5aa28b0759774904a25d7fc12ea233a9
 ASSP3,mitv://51.81.90.178:9906/68067267b2734dd39032d08bf83db8f0
@@ -43,16 +41,12 @@ tvN MOVIES,mitv://51.81.90.178:9906/93226f918c0a4231bdff4910da8fa8e1
 WakuWaku Japan,mitv://51.81.90.178:9906/28b06935de514518a679a05b66b3f8c2
 WWE,mitv://51.81.90.178:9906/591deaacdbc247c8be9fb4fc937d6a14
 $c_startSG$c_end
-!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
-!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 Ch 5,mitv://51.81.90.178:9906/6ef7d5d3391c4388a9e6ed5c2fd64a78
 Ch 8,mitv://51.81.90.178:9906/58097be7ccf245e4967f20ca5b6ce953
 CNA,mitv://51.81.90.178:9906/a4e154daf0ed4848bdf59bca959dfecd
 Ch U,mitv://51.81.90.178:9906/391ec17d9d6b4a388058068361342e7f
 Horse Racing 89,mitv://51.81.90.178:9906/c34e7bacdb5a4b879599a1b04ca55406
 $c_startHK$c_end
-!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
-!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 鳳凰中文台,mitv://51.81.90.178:9906/1cca583ce33142c9840bcf53b030e47c
 鳳凰資訊台,mitv://51.81.90.178:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
 鳳凰香港台,mitv://51.81.90.178:9906/1e2d62497f71486cb6f1d6bbe1bbdb4f
@@ -84,8 +78,6 @@ ViuTV6,mitv://51.81.90.178:9906/0a2171b6dcd6420c98ccfb7c7f524504
 澳門Macau,mitv://51.81.90.178:9906/ba43211992f348d6a8b07f1edb894c9b
 澳門蓮花,mitv://51.81.90.178:9906/5a534ef41b9647c9aad8facdb5525a2a
 $c_startTW$c_end
-!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
-!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 TVBS新聞台,mitv://51.81.90.178:9906/4c700aa999594ea5893d7eab1519f187
 三立iNews,mitv://51.81.90.178:9906/49035f1ad8b84fa7822c0ff660d89f09
 三立新聞,mitv://51.81.90.178:9906/3fc8adf766954da4bc9908ecb81184bc
@@ -172,8 +164,6 @@ HUB娛家,mitv://51.81.90.178:9906/da8e392d1e5e49e08e64e5ce00c0568e
 原住民電視台,mitv://51.81.90.178:9906/aa08defb0c824c2286623855624a0e07
 國興衛視,mitv://51.81.90.178:9906/7ed90f5183e64e4f8b422c951ff275b0
 $c_start影视$c_end
-!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
-!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 AXN,mitv://51.81.90.178:9906/91a1fa5c29a849cf897f93f58fd08285
 BBC earth,mitv://51.81.90.178:9906/555289b9056947f18bb9658c62299697
 BBC Lifestyle,mitv://51.81.90.178:9906/2dcc681591d640ceb91c09b5eb7cbb83
@@ -219,8 +209,6 @@ CATCHPLAY電影台,mitv://51.81.90.178:9906/c4eeae79ede24dd3baf9226ec992dbe4
 AXN,mitv://51.81.90.178:9906/5c910d743fe847e8b406bf7d180130a0
 AMC最愛電影,mitv://51.81.90.178:9906/eb5393add687434ca3f3da38ce5ec3bf
 $c_startSPORT$c_end
-!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
-!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 緯來體育,mitv://51.81.90.178:9906/cd64bcebb70d4b489bf734c5b3369002
 愛爾達體育1台,mitv://51.81.90.178:9906/db6bd5a732984d83a8fdb9d0536886c8
 愛爾達體育2台,mitv://51.81.90.178:9906/bc49344900a546d39b5083025db6243f
@@ -244,8 +232,6 @@ SPOTV,mitv://51.81.90.178:9906/5dedc66ef44242819ee8bf88796a9101
 TRACE SPORT STARS,mitv://51.81.90.178:9906/57536d1b23f34f28bb4d8c065d2e67e5
 WWE,mitv://51.81.90.178:9906/591deaacdbc247c8be9fb4fc937d6a14
 $c_start探索$c_end
-!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
-!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 美食星球,mitv://51.81.90.178:9906/045aa067f54a4a5bb2f5dc17190417cf
 亞洲旅遊台,mitv://51.81.90.178:9906/b52d03f4997a48b88d4ff3a86d2fa8de
 时尚频道,mitv://51.81.90.178:9906/a6cb54e5bd294cc98064df05ad1b3fc1
@@ -262,8 +248,6 @@ Ci罪案偵緝频道,mitv://51.81.90.178:9906/969d3da0dc624b599160cda58bd5daa2
 歷史頻道,mitv://51.81.90.178:9906/8282b66d64db4dd884b125ce6a43d7cf
 歷史頻道2,mitv://51.81.90.178:9906/d13e7bea35dd4c01bf258f127a01b393
 $c_start儿童$c_end
-!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
-!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 靖洋卡通台,mitv://51.81.90.178:9906/f356d20c5a374fef82a196fadfe38a77
 靖天卡通台,mitv://51.81.90.178:9906/bb214f3596dd4b1c8bae816edff835be
 達文西頻道,mitv://51.81.90.178:9906/191725f8a02546c1bec1bb92aab127ab
@@ -275,8 +259,6 @@ momo親子台,mitv://51.81.90.178:9906/d3ae733f3d61464e8f240d812c0b1516
 CN卡通频道,mitv://51.81.90.178:9906/51e593fae95f48968c181b6a47179526
 ANIMAX,mitv://51.81.90.178:9906/10d8ae908a354513b09e38e7116b7b33
 $c_start空中课堂$c_end
-!!,https://github.com/lekbox001/lekbox/raw/main/stop0.ts
-!!!,https://github.com/lekbox001/lekbox/raw/main/stop1.ts
 1年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 2年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
 3年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
