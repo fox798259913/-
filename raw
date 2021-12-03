@@ -25,10 +25,10 @@
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml"
     },
     {
-      "key": "芒果",
-      "name": "芒果",
+      "key": "UNSS",
+      "name": "UNSS",
       "type": 0,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml"
+      "api": "http://www.unss.net/api.php/provide/vod/at/xml"
     },
     {
       "key": "电影牛",
@@ -74,8 +74,8 @@
       "url": "https://jx.7kjx.com/?url="
     },
     {
-      "name": "BL",
-      "url": "https://vip.bljiex.com/?v="
+      "name": "人人",
+      "url": "https://jx.renrenmi.cc/?url="
     },
     {
       "name": "追剧达人",
