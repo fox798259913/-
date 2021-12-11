@@ -5,25 +5,6 @@
       "name": "LEKBOX",
       "type": 0,
       "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml"
-    },
-    {
-      "key": "csp_Ysgc",
-      "name": "影视工厂(爬虫)",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "csp_yysdali",
-      "name": "YYDS影视(XPath)",
-      "type": 3,
-      "api": "csp_YydsAli",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/yyds.json"
     },   
     {
       "key": "优酷",
