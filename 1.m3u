@@ -822,45 +822,45 @@ https://vs01.kkembed.com/files/mp4/S/SImST.m3u8
 https://vs01.kkembed.com/files/mp4/B/Bf3Bs.m3u8
 #EXTINF:-1 group-title="Thaimovie",thailand only
 https://vs01.kkembed.com/files/mp4/K/KahG4.m3u8
-#EXTINF:-1 group-title="离不开你",1
+#EXTINF:-1 group-title="离不开你" tvg-logo="https://pic.rmb.bdstatic.com/bjh/629bc048150a1bee78d9c0a18816e07c.jpeg",1
 https://v.kdcdn.net/20211008/rzH9iVR8/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="离不开你",2
+#EXTINF:-1 group-title="离不开你" tvg-logo="https://pic.rmb.bdstatic.com/bjh/629bc048150a1bee78d9c0a18816e07c.jpeg",2
 https://v.kdcdn.net/20211008/iVeqZtrs/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="离不开你",3
+#EXTINF:-1 group-title="离不开你" tvg-logo="https://pic.rmb.bdstatic.com/bjh/629bc048150a1bee78d9c0a18816e07c.jpeg",3
 https://v.kdcdn.net/20211008/vOJFGHrj/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="离不开你",4
+#EXTINF:-1 group-title="离不开你" tvg-logo="https://pic.rmb.bdstatic.com/bjh/629bc048150a1bee78d9c0a18816e07c.jpeg",4
 https://v.kdcdn.net/20211008/c9N31qQx/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="离不开你",5
+#EXTINF:-1 group-title="离不开你" tvg-logo="https://pic.rmb.bdstatic.com/bjh/629bc048150a1bee78d9c0a18816e07c.jpeg",5
 https://v.kdcdn.net/20211007/Sl9e7vfH/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="离不开你",6
+#EXTINF:-1 group-title="离不开你" tvg-logo="https://pic.rmb.bdstatic.com/bjh/629bc048150a1bee78d9c0a18816e07c.jpeg",6
 https://v.v1kd.com/20211014/Oz5hkjSK/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="一级响应",1
+#EXTINF:-1 group-title="一级响应" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8682dc0dd1626e67ac584ba958fe7155.jpeg",1
 https://vod.bunediy.com/20210412/SULujZF6/index.m3u8
-#EXTINF:-1 group-title="一级响应",2
+#EXTINF:-1 group-title="一级响应" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8682dc0dd1626e67ac584ba958fe7155.jpeg",2
 https://vod.bunediy.com/20210412/pVVuI3iT/index.m3u8
-#EXTINF:-1 group-title="一级响应",3
+#EXTINF:-1 group-title="一级响应" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8682dc0dd1626e67ac584ba958fe7155.jpeg",3
 https://vod.bunediy.com/20210417/aK0d2xST/index.m3u8
-#EXTINF:-1 group-title="一级响应",4
+#EXTINF:-1 group-title="一级响应" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8682dc0dd1626e67ac584ba958fe7155.jpeg",4
 https://vod.bunediy.com/20210417/exzEvygf/index.m3u8
-#EXTINF:-1 group-title="一级响应",5
+#EXTINF:-1 group-title="一级响应" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8682dc0dd1626e67ac584ba958fe7155.jpeg",5
 https://vod.bunediy.com/20210417/kHZSjbAv/index.m3u8
-#EXTINF:-1 group-title="红色通缉",1
+#EXTINF:-1 group-title="红色通缉" tvg-logo="https://pic.rmb.bdstatic.com/bjh/98c2d9ac0fef019ac4f205887100b412.jpeg",1
 https://raw.githubusercontent.com/lekbox001/lekbox/main/hstj/1.m3u8
-#EXTINF:-1 group-title="红色通缉",2
+#EXTINF:-1 group-title="红色通缉" tvg-logo="https://pic.rmb.bdstatic.com/bjh/98c2d9ac0fef019ac4f205887100b412.jpeg",2
 https://raw.githubusercontent.com/lekbox001/lekbox/main/hstj/2.m3u8
-#EXTINF:-1 group-title="红色通缉",3
+#EXTINF:-1 group-title="红色通缉" tvg-logo="https://pic.rmb.bdstatic.com/bjh/98c2d9ac0fef019ac4f205887100b412.jpeg",3
 https://raw.githubusercontent.com/lekbox001/lekbox/main/hstj/3.m3u8
-#EXTINF:-1 group-title="红色通缉",4
+#EXTINF:-1 group-title="红色通缉" tvg-logo="https://pic.rmb.bdstatic.com/bjh/98c2d9ac0fef019ac4f205887100b412.jpeg",4
 https://raw.githubusercontent.com/lekbox001/lekbox/main/hstj/4.m3u8
-#EXTINF:-1 group-title="红色通缉",5
+#EXTINF:-1 group-title="红色通缉" tvg-logo="https://pic.rmb.bdstatic.com/bjh/98c2d9ac0fef019ac4f205887100b412.jpeg",5
 https://raw.githubusercontent.com/lekbox001/lekbox/main/hstj/5.m3u8
-#EXTINF:-1 group-title="亚洲罪案侦察档案",1
+#EXTINF:-1 group-title="亚洲罪案侦察档案" tvg-logo="https://bkimg.cdn.bcebos.com/pic/8b13632762d0f703918fd28baab3463d269759ee6f18?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg",1
 https://m1905-com.jjyl12349.com/20210531/ByWPrv5T/index.m3u8
-#EXTINF:-1 group-title="亚洲罪案侦察档案",2
+#EXTINF:-1 group-title="亚洲罪案侦察档案" tvg-logo="https://bkimg.cdn.bcebos.com/pic/8b13632762d0f703918fd28baab3463d269759ee6f18?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg",2
 https://m1905-com.jjyl12349.com/20210531/UcDTQu2s/index.m3u8
-#EXTINF:-1 group-title="亚洲罪案侦察档案",3
+#EXTINF:-1 group-title="亚洲罪案侦察档案" tvg-logo="https://bkimg.cdn.bcebos.com/pic/8b13632762d0f703918fd28baab3463d269759ee6f18?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg",3
 https://m1905-com.jjyl12349.com/20210531/AN4TPQtp/index.m3u8
-#EXTINF:-1 group-title="亚洲罪案侦察档案",4
+#EXTINF:-1 group-title="亚洲罪案侦察档案" tvg-logo="https://bkimg.cdn.bcebos.com/pic/8b13632762d0f703918fd28baab3463d269759ee6f18?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg",4
 https://m1905-com.jjyl12349.com/20210531/XqgkUjyb/index.m3u8
-#EXTINF:-1 group-title="亚洲罪案侦察档案",5
+#EXTINF:-1 group-title="亚洲罪案侦察档案" tvg-logo="https://bkimg.cdn.bcebos.com/pic/8b13632762d0f703918fd28baab3463d269759ee6f18?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg",5
 https://m1905-com.jjyl12349.com/20210531/btD4zb84/index.m3u8
