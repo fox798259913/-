@@ -5,12 +5,13 @@
       "name": "LEKBOX",
       "type": 0,
       "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml"
-    },   
+    },
     {
-      "key": "优酷",
-      "name": "优酷",
-      "type": 0,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml"
+      "key": "番茄",
+      "name": "番茄",
+      "type": 1,
+      "api": "http://api.fqzy.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "https://dp.8b5q.cn/dplayer/?url="
     },
     {
       "key": "MBO",
@@ -19,10 +20,10 @@
       "api": "http://mbomovie.com/api.php/provide/vod/at/xml"
     },
     {
-      "key": "腾讯",
-      "name": "腾讯",
-      "type": 0,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml"
+      "key": "想看",
+      "name": "想看",
+      "type": 1,
+      "api": "https://m3u8.xiangkanapi.com/provide/vod/"
     },
     {
       "key": "UNSS",
@@ -41,6 +42,30 @@
       "name": "嗨哆咪",
       "type": 0,
       "api": "http://hdmys1.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "阿里",
+      "name": "阿里",
+      "type": 0,
+      "api": "https://bljiex.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "樱花",
+      "name": "樱花",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
+    },
+    {
+      "key": "星空",
+      "name": "星空",
+      "type": 0,
+      "api": "https://xkys.tv/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "天空",
+      "name": "天空",
+      "type": 0,
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/"
     },
     {
       "key": "唐人街",
