@@ -7,13 +7,6 @@
       "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml"
     },
     {
-      "key": "番茄",
-      "name": "番茄",
-      "type": 1,
-      "api": "http://api.fqzy.cc/api.php/provide/vod/?ac=list",
-      "playUrl": "https://dp.8b5q.cn/dplayer/?url="
-    },
-    {
       "key": "MBO",
       "name": "MBO",
       "type": 0,
