@@ -15,7 +15,7 @@
     {
       "key": "想看",
       "name": "想看",
-      "type": 1,
+      "type": 0,
       "api": "https://m3u8.xiangkanapi.com/provide/vod/"
     },
     {
@@ -46,7 +46,7 @@
     {
       "key": "樱花",
       "name": "樱花",
-      "type": 1,
+      "type": 0,
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
     },
     {
