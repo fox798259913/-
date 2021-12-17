@@ -35,7 +35,8 @@
       "key": "电影牛",
       "name": "电影牛",
       "type": 0,
-      "api": "https://www.dianyingn.cc/api.php/provide/vod/at/xml"
+      "api": "https://www.dianyingn.cc/api.php/provide/vod/at/xml,
+      "playUrl": "https://jx.renrenmi.cc/?url="
     },
     {
       "key": "嗨哆咪",
