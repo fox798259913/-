@@ -524,6 +524,14 @@ http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212300
 http://117.148.179.41/PLTV/88888888/224/3221230098/index.m3u8
 #EXTINF:-1 group-title="HD",H爱悬疑
 http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c972034773942b8156797b366dee58f5.jpeg",人质
+https://ccc.gmq-tj.com/20211115/3iLUEHMr/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/4d96379c451eb4ffb3045544c8810a4f.jpeg",通话惊魂
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/30976/f8add731-59fe-4c03-bf0b-fbc2d420d08e/SD/playlist.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5196d61d9b1f98e5006ccadd8bc27b8b.jpeg",极地反击
+https://vod.bunediy.com/20210604/yCxhkxv0/index.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/c3fbd72b7dc51be9828f7a89911153d7.jpeg",死亡来临
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/09e075a8-2f53-49d9-bb94-aae2cd0e1c73/26232/9620ae0f-c21a-4de9-be14-9696b3a3f940/SD/playlist.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/198b7a2187a5a70a00bdac516a95471d.jpeg",再战江湖2021
 https://sod.bunediy.com/20211217/LGBtHhJZ/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/953db9f488653f9dcab4ab660a9b2e07.jpeg",唐门：美人江湖
@@ -724,6 +732,12 @@ https://sod.bunediy.com/20210920/uznB17e5/index.m3u8
 https://sod.bunediy.com/20210822/ibusOcUH/index.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b10a30838c845af6b308e910b2a80edb.jpeg",丛林奇航
 https://vod.bunediy.com/20210731/htf0kjSn/index.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5b109216972b6c87b4c343251627c551.jpeg",老鹰抓小鸡老鹰抓小鸡
+https://jiuzhou.so2.cc/zuidazy/%E8%80%81%E9%B9%B0%E6%8A%93%E5%B0%8F%E9%B8%A1.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/564941b4494761cffa55f71ef3eca656.jpeg",拯救甜甜圈
+https://abc.xkys.tv/m3u8/hash0d5bfdee390acecf5e68bce651cb5e16.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/fdfcb9692e09a745989b0639b7cf33e4.jpeg",大卫的圣诞魔法
+https://v.v1kd.com/20211215/yuwi8HCy/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6c7eb27dce5449fe8000f05a16694b2a.jpeg",封神之九曲黄河阵
 https://abc.xkys.tv/m3u8/hashed746e76da3e2ea21db1824d0a02fb7a.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/028264ea3f33391c117c3dbe315f20c1.jpeg",西游记之再世妖王
@@ -748,8 +762,6 @@ https://v12.tkzyapi.com/20210820/eZr4NE5K/1000kb/hls/index.m3u8
 https://sod.bunediy.com/20211124/OIwYoLRG/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/9bd080262198a972b1baa16f51755ccf.jpeg",白蛇：情劫
 https://vod.bunediy.com/20210313/ffyBXEqk/index.m3u8
-#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ff2f8a2fc6a06e4a4e9863f282140d23.jpeg",皮皮鲁与鲁西西之罐头小人
-https://sod.bunediy.com/20211118/0Ll8VsMO/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/da667b914ddbd2b77cdea3ad8a32d165.jpeg",至尊先生之金蝉蛊
 https://vod.bunediy.com/20210627/TUcESoa5/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/d5c5bb194a24eb78a1445e567e99e325.jpeg",大幻术师
@@ -760,6 +772,16 @@ https://vod.bunediy.com/20210218/gFMlVC4Q/index.m3u8
 https://v10.dious.cc/20211109/zkvzrSvo/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/eef51ff518ffd8369993ca8ac4b89314.jpeg",武林怪兽
 https://iqiyi-qq-comic.jjyl12349.com/20210716/in6QPa5Z/index.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/6fdc995a6cf744364248026c09394a09.jpeg",越界
+https://jiuzhou.so2.cc/zuidazy/%E8%B6%8A%E7%95%8C%EF%BC%882021%EF%BC%89.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5baa3e237295ca2245376b340b99a73e.jpeg",好像一条狗
+https://sod.bunediy.com/20211218/FXxIJ7GS/index.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/cea0dfa8f9e5ae34592dab40cfb1e165.jpeg",明天的记忆
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/41063818-8998-4482-aad1-97ec8ad9d138/18728/195fe53c-766a-4d0d-bbfc-1c292d412c30/SD/playlist.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8251e77959b194791ebca3f0989acc7e.jpeg",鹿角
+https://sod.bunediy.com/20211213/1IUakDxC/index.m3u8
+#EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/a2cab3e6826e4bcb8a6849b18e7d8262.jpeg",760号犯人
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/9931/05f282de-f1f5-4690-b429-38a1915e53b0/SD/playlist.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/724046115df4db7a150b4f15cccd8be2.jpeg",人鱼之海牢物怪
 https://abc.xkys.tv/m3u8/hash81626712a2076d71db9fb0aa7590289d.m3u8
 #EXTINF:-1 group-title="HR恐怖" tvg-logo="https://pic.rmb.bdstatic.com/bjh/ab17bf9f132c7f1ea54dce32dedffa8d.jpeg",卸岭秘录
@@ -940,38 +962,6 @@ https://vs01.kkembed.com/files/mp4/S/SImST.m3u8
 https://vs01.kkembed.com/files/mp4/B/Bf3Bs.m3u8
 #EXTINF:-1 group-title="Thaimovie",thailand only
 https://vs01.kkembed.com/files/mp4/K/KahG4.m3u8
-#EXTINF:-1 group-title="离不开你" tvg-logo="https://pic.rmb.bdstatic.com/bjh/629bc048150a1bee78d9c0a18816e07c.jpeg",1
-https://v.kdcdn.net/20211008/rzH9iVR8/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="离不开你" tvg-logo="https://pic.rmb.bdstatic.com/bjh/629bc048150a1bee78d9c0a18816e07c.jpeg",2
-https://v.kdcdn.net/20211008/iVeqZtrs/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="离不开你" tvg-logo="https://pic.rmb.bdstatic.com/bjh/629bc048150a1bee78d9c0a18816e07c.jpeg",3
-https://v.kdcdn.net/20211008/vOJFGHrj/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="离不开你" tvg-logo="https://pic.rmb.bdstatic.com/bjh/629bc048150a1bee78d9c0a18816e07c.jpeg",4
-https://v.kdcdn.net/20211008/c9N31qQx/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="离不开你" tvg-logo="https://pic.rmb.bdstatic.com/bjh/629bc048150a1bee78d9c0a18816e07c.jpeg",5
-https://v.kdcdn.net/20211007/Sl9e7vfH/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="离不开你" tvg-logo="https://pic.rmb.bdstatic.com/bjh/629bc048150a1bee78d9c0a18816e07c.jpeg",6
-https://v.v1kd.com/20211014/Oz5hkjSK/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="一级响应" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8682dc0dd1626e67ac584ba958fe7155.jpeg",1
-https://vod.bunediy.com/20210412/SULujZF6/index.m3u8
-#EXTINF:-1 group-title="一级响应" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8682dc0dd1626e67ac584ba958fe7155.jpeg",2
-https://vod.bunediy.com/20210412/pVVuI3iT/index.m3u8
-#EXTINF:-1 group-title="一级响应" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8682dc0dd1626e67ac584ba958fe7155.jpeg",3
-https://vod.bunediy.com/20210417/aK0d2xST/index.m3u8
-#EXTINF:-1 group-title="一级响应" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8682dc0dd1626e67ac584ba958fe7155.jpeg",4
-https://vod.bunediy.com/20210417/exzEvygf/index.m3u8
-#EXTINF:-1 group-title="一级响应" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8682dc0dd1626e67ac584ba958fe7155.jpeg",5
-https://vod.bunediy.com/20210417/kHZSjbAv/index.m3u8
-#EXTINF:-1 group-title="红色通缉" tvg-logo="https://pic.rmb.bdstatic.com/bjh/98c2d9ac0fef019ac4f205887100b412.jpeg",1
-https://raw.githubusercontent.com/lekbox001/lekbox/main/hstj/1.m3u8
-#EXTINF:-1 group-title="红色通缉" tvg-logo="https://pic.rmb.bdstatic.com/bjh/98c2d9ac0fef019ac4f205887100b412.jpeg",2
-https://raw.githubusercontent.com/lekbox001/lekbox/main/hstj/2.m3u8
-#EXTINF:-1 group-title="红色通缉" tvg-logo="https://pic.rmb.bdstatic.com/bjh/98c2d9ac0fef019ac4f205887100b412.jpeg",3
-https://raw.githubusercontent.com/lekbox001/lekbox/main/hstj/3.m3u8
-#EXTINF:-1 group-title="红色通缉" tvg-logo="https://pic.rmb.bdstatic.com/bjh/98c2d9ac0fef019ac4f205887100b412.jpeg",4
-https://raw.githubusercontent.com/lekbox001/lekbox/main/hstj/4.m3u8
-#EXTINF:-1 group-title="红色通缉" tvg-logo="https://pic.rmb.bdstatic.com/bjh/98c2d9ac0fef019ac4f205887100b412.jpeg",5
-https://raw.githubusercontent.com/lekbox001/lekbox/main/hstj/5.m3u8
 #EXTINF:-1 group-title="亚洲罪案侦察档案" tvg-logo="https://bkimg.cdn.bcebos.com/pic/8b13632762d0f703918fd28baab3463d269759ee6f18?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg",1
 https://m1905-com.jjyl12349.com/20210531/ByWPrv5T/index.m3u8
 #EXTINF:-1 group-title="亚洲罪案侦察档案" tvg-logo="https://bkimg.cdn.bcebos.com/pic/8b13632762d0f703918fd28baab3463d269759ee6f18?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg",2
@@ -982,3 +972,13 @@ https://m1905-com.jjyl12349.com/20210531/AN4TPQtp/index.m3u8
 https://m1905-com.jjyl12349.com/20210531/XqgkUjyb/index.m3u8
 #EXTINF:-1 group-title="亚洲罪案侦察档案" tvg-logo="https://bkimg.cdn.bcebos.com/pic/8b13632762d0f703918fd28baab3463d269759ee6f18?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg",5
 https://m1905-com.jjyl12349.com/20210531/btD4zb84/index.m3u8
+#EXTINF:-1 group-title="火线救援" tvg-logo="https://pic.rmb.bdstatic.com/bjh/47e632bf10d33a4629d7db7a1dc6b0f3.jpeg",1
+https://ukzy.ukubf2.com/20211109/t5UQCy3t/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="火线救援" tvg-logo="https://pic.rmb.bdstatic.com/bjh/47e632bf10d33a4629d7db7a1dc6b0f3.jpeg",2
+https://ukzy.ukubf2.com/20211109/DMcZccgT/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="火线救援" tvg-logo="https://pic.rmb.bdstatic.com/bjh/47e632bf10d33a4629d7db7a1dc6b0f3.jpeg",3
+https://ukzy.ukubf2.com/20211124/h2VlsNIi/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="火线救援" tvg-logo="https://pic.rmb.bdstatic.com/bjh/47e632bf10d33a4629d7db7a1dc6b0f3.jpeg",4
+https://ukzy.ukubf2.com/20211201/Hk5IwzG1/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="火线救援" tvg-logo="https://pic.rmb.bdstatic.com/bjh/47e632bf10d33a4629d7db7a1dc6b0f3.jpeg",5
+https://ukzy.ukubf2.com/20211212/pD0bOlHa/2000kb/hls/index.m3u8
