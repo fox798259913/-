@@ -31,7 +31,7 @@ AEC(備),mitv://ns2.hellotvvod.com:9906/ba54a1fee32c4b159e953cc9f2632857
 全佳,mitv://ns2.hellotvvod.com:9906/bda13a24baf24436ae722275cbb85345
 天映頻道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
 翡翠台(華語台),mitv://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9
-AOD  311,mitv://ns2.hellotvvod.com:9906/55fa6310d30d45029c38c2848ffbcb85
+AOD311,mitv://ns2.hellotvvod.com:9906/55fa6310d30d45029c38c2848ffbcb85
 中天亞洲台,mitv://ns2.hellotvvod.com:9906/1c191cbfb24547d7be6f91d352266efa
 天映經典,mitv://ns2.hellotvvod.com:9906/4699a8c6571243a4b5387f6b3c639851
 歡喜台,mitv://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb
@@ -66,11 +66,11 @@ KIX,mitv://ns2.hellotvvod.com:9906/a462f6ed65944413acdfc059add3686e
 HITS,mitv://ns2.hellotvvod.com:9906/8bc2e742cb57462c924904032624a6fd
 Arena,mitv://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0
 Arena 2,mitv://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b
-SuperSport,mitv://ns2.hellotvvod.com:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
-SuperSport 2,mitv://ns2.hellotvvod.com:9906/5aa28b0759774904a25d7fc12ea233a9
-SuperSport 3,mitv://ns2.hellotvvod.com:9906/68067267b2734dd39032d08bf83db8f0
-SuperSport 4,mitv://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0
-SuperSport 5,mitv://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
+Assp1,mitv://ns2.hellotvvod.com:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
+Assp2,mitv://ns2.hellotvvod.com:9906/5aa28b0759774904a25d7fc12ea233a9
+Assp3,mitv://ns2.hellotvvod.com:9906/68067267b2734dd39032d08bf83db8f0
+Assp4,mitv://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0
+Assp5,mitv://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
 SPOTV,mitv://ns2.hellotvvod.com:9906/5dedc66ef44242819ee8bf88796a9101
 beIN Sports,mitv://ns2.hellotvvod.com:9906/2f0a1100d8724e7c8fe7f33fef6722cc
 beIN Sports MAX,mitv://ns2.hellotvvod.com:9906/1d28c61387af4ccd847b72b1601415d7
@@ -82,11 +82,11 @@ tvN,mitv://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
 8TV,mitv://51.81.90.178:9906/6ca879209e6f487a841f07713bba541a
 AEC,mitv://51.81.90.178:9906/ba54a1fee32c4b159e953cc9f2632857
 AEC(備),mitv://51.81.90.178:9906/672202f697ea4e77943f6898754f0c1e
-AOD,mitv://51.81.90.178:9906/55fa6310d30d45029c38c2848ffbcb85
-AOD 352,mitv://51.81.90.178:9906/e037a8a95ed046fda90e511dc7fdd071
-AOD 353,mitv://51.81.90.178:9906/696cf1339742486c9953c875e603b309
-AOD 354,mitv://51.81.90.178:9906/5e80bdb10ec54effb4adf472107615e1
-AOD 355,mitv://51.81.90.178:9906/9ff11126e8b147008308df7cf8c8c23d
+AOD351,mitv://51.81.90.178:9906/55fa6310d30d45029c38c2848ffbcb85
+AOD352,mitv://51.81.90.178:9906/e037a8a95ed046fda90e511dc7fdd071
+AOD353,mitv://51.81.90.178:9906/696cf1339742486c9953c875e603b309
+AOD354,mitv://51.81.90.178:9906/5e80bdb10ec54effb4adf472107615e1
+AOD355,mitv://51.81.90.178:9906/9ff11126e8b147008308df7cf8c8c23d
 翡翠台,mitv://51.81.90.178:9906/b1b2d6da00de42efa4fe6051d35650d9
 双星,mitv://51.81.90.178:9906/7872926c51f9451fb86342414e0d32f5
 全佳,mitv://51.81.90.178:9906/bda13a24baf24436ae722275cbb85345
@@ -116,14 +116,14 @@ WWE,mitv://51.81.90.178:9906/591deaacdbc247c8be9fb4fc937d6a14
 8TV,P2p://ns2.hellotvvod.com:9906/6ca879209e6f487a841f07713bba541a
 ABC Australia,P2p://ns2.hellotvvod.com:9906/f7003b714f114b3f8a91d6babf1f9ae2
 ABO Movies Thangathirai HD,P2p://ns2.hellotvvod.com:9906/bb6421aa1f9c412ea91e34ab14e52717
-AEC(备),P2p://ns2.hellotvvod.com:9906/ba54a1fee32c4b159e953cc9f2632857
+AEC(備),P2p://ns2.hellotvvod.com:9906/ba54a1fee32c4b159e953cc9f2632857
 AEC,P2p://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e
-AOD 352,P2p://ns2.hellotvvod.com:9906/e037a8a95ed046fda90e511dc7fdd071
-AOD 353,P2p://ns2.hellotvvod.com:9906/696cf1339742486c9953c875e603b309
-AOD 354,P2p://ns2.hellotvvod.com:9906/5e80bdb10ec54effb4adf472107615e1
-AOD 355,P2p://ns2.hellotvvod.com:9906/9ff11126e8b147008308df7cf8c8c23d
+AOD352,P2p://ns2.hellotvvod.com:9906/e037a8a95ed046fda90e511dc7fdd071
+AOD353,P2p://ns2.hellotvvod.com:9906/696cf1339742486c9953c875e603b309
+AOD354,P2p://ns2.hellotvvod.com:9906/5e80bdb10ec54effb4adf472107615e1
+AOD355,P2p://ns2.hellotvvod.com:9906/9ff11126e8b147008308df7cf8c8c23d
 AOD HD 311,P2p://ns2.hellotvvod.com:9906/55fa6310d30d45029c38c2848ffbcb85
-Arena 2,P2p://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b
+Arena2,P2p://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b
 Arena,P2p://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0
 Aura,P2p://ns2.hellotvvod.com:9906/5e7a3708a99c482390ab8cf0f90a045e
 Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8
@@ -362,11 +362,20 @@ Outdoor,mitv://51.81.90.178:9906/ed9355bc07124e1e8a1c5dae6d87c300
 TLC旅遊生活,mitv://51.81.90.178:9906/785e9237d2864f23b3fbf5e72b645812
 tvN,mitv://51.81.90.178:9906/0a4d0d0c6e164cd093061bc31cf30ae8
 SPORT,#genre#
-ASSP,mitv://51.81.90.178:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
-ASSP2,mitv://51.81.90.178:9906/5aa28b0759774904a25d7fc12ea233a9
-ASSP3,mitv://51.81.90.178:9906/68067267b2734dd39032d08bf83db8f0
-ASSP4,mitv://51.81.90.178:9906/6ba21b7211494ed4ac1456d6ba8cbaa0
-ASSP5,mitv://51.81.90.178:9906/cc02a88163414af7b4d7479a833f1407
+Arena2,P2p://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b
+Arena,P2p://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0
+Arena,mitv://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0
+Arena 2,mitv://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b
+Assp1,mitv://ns2.hellotvvod.com:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
+Assp2,mitv://ns2.hellotvvod.com:9906/5aa28b0759774904a25d7fc12ea233a9
+Assp3,mitv://ns2.hellotvvod.com:9906/68067267b2734dd39032d08bf83db8f0
+Assp4,mitv://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0
+Assp5,mitv://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
+Assp1,mitv://51.81.90.178:9906/e12cfed6c3d94f27bd4f480d42b0c7b5
+Assp2,mitv://51.81.90.178:9906/5aa28b0759774904a25d7fc12ea233a9
+Assp3,mitv://51.81.90.178:9906/68067267b2734dd39032d08bf83db8f0
+Assp4,mitv://51.81.90.178:9906/6ba21b7211494ed4ac1456d6ba8cbaa0
+Assp5,mitv://51.81.90.178:9906/cc02a88163414af7b4d7479a833f1407
 有線體育台,mitv://51.81.90.178:9906/1f7426398b0248708172875db037edff
 有線603台,mitv://51.81.90.178:9906/bc32fd90af7d4f4aaa3bd451d9199153
 有線Sports Plus 1,mitv://51.81.90.178:9906/36976aef6f4f4ab2aad06b8ece5aac54
