@@ -373,8 +373,6 @@ Colors Tamil,mitv://ns2.hellotvvod.com:9906/fb8c72aeee884c1789e905a8da09e2fd
 ABO Movies Thangathirai ,mitv://ns2.hellotvvod.com:9906/bb6421aa1f9c412ea91e34ab14e52717
 愛奇藝,mitv://ns2.hellotvvod.com:9906/68ef448264ff4275b99f322996e3469a
 小太陽,mitv://ns2.hellotvvod.com:9906/0d5ecafe8f494863ac5bad999b6a1f0f
-AEC,mitv://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e
-AEC(備),mitv://ns2.hellotvvod.com:9906/ba54a1fee32c4b159e953cc9f2632857
 雙星,mitv://ns2.hellotvvod.com:9906/7872926c51f9451fb86342414e0d32f5
 全佳,mitv://ns2.hellotvvod.com:9906/bda13a24baf24436ae722275cbb85345
 天映頻道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
