@@ -38,16 +38,16 @@
       "api": "http://hdmys1.com/api.php/provide/vod/at/xml"
     },
     {
-      "key": "阿里",
-      "name": "阿里",
+      "key": "Ikaola",
+      "name": "Ikaola",
       "type": 0,
-      "api": "https://bljiex.com/api.php/provide/vod/at/xml"
+      "api": "http://ikaola.tv/api.php/provide/vod/at/xml/"
     },
     {
-      "key": "樱花",
-      "name": "樱花",
+      "key": "不开",
+      "name": "不开",
       "type": 0,
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml"
+      "api": "http://c.bukai.men/api.php/provide/vod/at/xml/"
     },
     {
       "key": "星空",
