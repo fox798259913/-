@@ -43,10 +43,8 @@ http://cloudplay.tk/api/douyu.php?id=1226741
 #EXTINF:-1 group-title="影视",粤语4
 http://103.140.229.13/BOBO/bibi.php?id=136843
 #EXTINF:-1 group-title="影视",粤语5
-http://103.140.229.13/BOBO/bibi.php?id=21515763
-#EXTINF:-1 group-title="影视",粤语6
 http://103.140.229.13/BOBO/bibi.php?id=3568283
-#EXTINF:-1 group-title="影视",粤语7
+#EXTINF:-1 group-title="影视",粤语6
 http://cloudplay.tk/api/douyu.php?id=5033502
 #EXTINF:-1 group-title="影视",VIP影院
 http://111.6.232.36/txpcdn.liveplay.egame.qq.com/3954_145086784.m3u8
@@ -56,678 +54,514 @@ http://111.6.232.36/txpcdn.liveplay.egame.qq.com/3954_616645877.m3u8
 http://111.6.232.36/txpcdn.liveplay.egame.qq.com/live/3954_382971876.m3u8
 #EXTINF:-1 group-title="影视",经典电影放映厅
 http://111.6.232.36/txpcdn.liveplay.egame.qq.com/live/3954_795906542.m3u8
-#EXTINF:-1 group-title="影视",少儿动画
-http://cord.tvxio.bestv.com.cn/v1_0/k91/0g0/api/live/m3u8/10/6f2acaf1-2341-4cd7-a33f-168f83127eb1/medium/?myTokenPrefixCustomParameter=165&myTokenPrefixendtime=1554639828&myTokenPrefixhash=F1VajEzLv7q_mJwjwLLQRB2_rYtzgjmDSeKR2ZPhcM0=
-#EXTINF:-1 group-title="影视",喜剧之王
-http://cord.tvxio.bestv.com.cn/v1_0/k91/0g0/api/live/m3u8/6/7f69af54-c623-4782-879d-04560bce8a91/medium/?myTokenPrefixCustomParameter=88&myTokenPrefixendtime=1554639828&myTokenPrefixhash=xKa_49F96NytaceVdBKXhQ-wjIyArZzWeN19P4CJSP0=
-#EXTINF:-1 group-title="影视",热播剧场
-http://cord.tvxio.bestv.com.cn/v1_0/k91/0g0/api/live/m3u8/9/f7b8e434-e8df-46b0-bbda-5807610d58c7/medium/?myTokenPrefixCustomParameter=42&myTokenPrefixendtime=1554639828&myTokenPrefixhash=SxV4iLftnMMwXgGa8r9xOJQd9hVmcHo5XvDlmzzH2O4=
-#EXTINF:-1 group-title="影视",B+音乐厅
-http://bp-caster.bestv.com.cn/469/1/video.m3u8
-#EXTINF:-1 group-title="影视",七彩戏剧
-https://bp-caster.bestv.com.cn/250/1/video.m3u8
-#EXTINF:-1 group-title="影视",三十正美丽
-http://bp-caster.bestv.com.cn/492/1/video.m3u8
-#EXTINF:-1 group-title="影视",上头正剧
-http://bp-caster.bestv.com.cn/501/1/video.m3u8
-#EXTINF:-1 group-title="影视",云游日本
-http://bp-caster.bestv.com.cn/514/1/video.m3u8
-#EXTINF:-1 group-title="影视",人文秘境
-http://bp-caster.bestv.com.cn/513/1/video.m3u8
-#EXTINF:-1 group-title="影视",介就是爱
-http://bp-caster.bestv.com.cn/480/1/video.m3u8
-#EXTINF:-1 group-title="影视",医护那些事
-http://bp-caster.bestv.com.cn/493/1/video.m3u8
-#EXTINF:-1 group-title="影视",名侦探柯南
-http://bp-caster.bestv.com.cn/560/1/video.m3u8
-#EXTINF:-1 group-title="影视",完美的夏天
-http://bp-caster.bestv.com.cn/510/1/video.m3u8
-#EXTINF:-1 group-title="影视",宝藏纪录片
-http://bp-caster.bestv.com.cn/515/1/video.m3u8
-#EXTINF:-1 group-title="影视",布衣天子
-http://bp-caster.bestv.com.cn/468/1/video.m3u8
-#EXTINF:-1 group-title="影视",悬疑烧脑
-http://bp-caster.bestv.com.cn/567/1/video.m3u8
-#EXTINF:-1 group-title="影视",我们的歌
-http://bp-caster.bestv.com.cn/378/1/video.m3u8
-#EXTINF:-1 group-title="影视",打工人奋斗史
-http://bp-caster.bestv.com.cn/532/1/video.m3u8
-#EXTINF:-1 group-title="影视",极限挑战
-http://bp-caster.bestv.com.cn/511/1/video.m3u8
-#EXTINF:-1 group-title="影视",泰上头
-http://bp-caster.bestv.com.cn/490/1/video.m3u8
-#EXTINF:-1 group-title="影视",烈火英雄
-http://bp-caster.bestv.com.cn/564/1/video.m3u8
-#EXTINF:-1 group-title="影视",烈焰青春
-http://bp-caster.bestv.com.cn/439/1/video.m3u8
-#EXTINF:-1 group-title="影视",狗血集合
-http://bp-caster.bestv.com.cn/569/1/video.m3u8
-#EXTINF:-1 group-title="影视",相声有新人
-http://bp-caster.bestv.com.cn/512/1/video.m3u8
-#EXTINF:-1 group-title="影视",神奇公司
-http://bp-caster.bestv.com.cn/356/1/video.m3u8
-#EXTINF:-1 group-title="影视",童年国漫
-http://bp-caster.bestv.com.cn/486/1/video.m3u8
-#EXTINF:-1 group-title="影视",花样姐姐
-http://bp-caster.bestv.com.cn/559/1/video.m3u8
-#EXTINF:-1 group-title="影视",解压喜剧
-http://bp-caster.bestv.com.cn/570/1/video.m3u8
-#EXTINF:-1 group-title="影视",迷案上海滩
-http://bp-caster.bestv.com.cn/494/1/video.m3u8
-#EXTINF:-1 group-title="影视",追光吧哥哥
-http://bp-caster.bestv.com.cn/460/1/video.m3u8
-#EXTINF:-1 group-title="影视",重返20岁
-http://bp-caster.bestv.com.cn/562/1/video.m3u8
-#EXTINF:-1 group-title="影视",金曲青春
-http://bp-caster.bestv.com.cn/561/1/video.m3u8
-#EXTINF:-1 group-title="影视",高能脱口秀
-http://bp-caster.bestv.com.cn/462/1/video.m3u8
-#EXTINF:-1 group-title="影视",电影-1
-http://bp-caster.bestv.com.cn/494/1/video.m3u8
-#EXTINF:-1 group-title="影视",电影-2
-http://bp-caster.bestv.com.cn/532/1/video.m3u8
-#EXTINF:-1 group-title="影视",电影-4
-http://bp-caster.bestv.com.cn/490/1/video.m3u8
-#EXTINF:-1 group-title="影视",电影-5
-http://bp-caster.bestv.com.cn/480/1/video.m3u8
-#EXTINF:-1 group-title="影视",动作电影
-http://api.idianshijia.com/gslb/live?stream_id=lsloop_dongwu
-#EXTINF:-1 group-title="影视",经典电影
-http://api.idianshijia.com/gslb/live?stream_id=lsloop_dianying
-#EXTINF:-1 group-title="影视",综艺节目
-http://api.idianshijia.com/gslb/live?stream_id=lsloop_zongyi
-#EXTINF:-1 group-title="影视",喜剧电影
-http://api.idianshijia.com/gslb/live?stream_id=lsloop_xiju
-#EXTINF:-1 group-title="影视",高分电影精选
-http://tx.liveplay.live.kugou.com/live/fx_hifi_1127285323_avc.flv
-#EXTINF:-1 group-title="影视",喜剧系列
-http://tx.liveplay.live.fanxing.com/live/fx_hifi_1171596549_avc.flv
-#EXTINF:-1 group-title="影视",影视1
-http://tx.liveplay.live.fanxing.com/live/fx_hifi_1175010873_avc.flv
-#EXTINF:-1 group-title="影视",玄幻影院
-http://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.flv
-#EXTINF:-1 group-title="影视",VIP影视
-http://tx.liveplay.live.kugou.com:80/live/fx_hifi_1319986999_avc.flv
-#EXTINF:-1 group-title="影视",金庸武侠剧
-http://tx.liveplay.live.fanxing.com/live/fx_hifi_135942907_avc.flv
-#EXTINF:-1 group-title="影视",影视2
-http://tx.liveplay.live.fanxing.com/live/fx_hifi_1398580524_avc.flv
-#EXTINF:-1 group-title="影视",影视3
-http://tx.liveplay.live.fanxing.com/live/fx_hifi_1417248603_std_avc.flv
-#EXTINF:-1 group-title="影视",捉鬼电影
-http://tx.liveplay.live.fanxing.com/live/fx_hifi_1460993762_avc.flv
-#EXTINF:-1 group-title="影视",综艺节目
-http://tx.liveplay.live.kugou.com/live/fx_hifi_1548332035_avc.flv
-#EXTINF:-1 group-title="影视",古装剧场
-http://tx.liveplay.live.kugou.com/live/fx_hifi_1573309100_avc.flv
-#EXTINF:-1 group-title="影视",周星驰
-http://tx.liveplay.live.kugou.com/live/fx_hifi_1638135185_avc.flv
-#EXTINF:-1 group-title="影视",沈腾黄渤系列
-http://tx.liveplay.live.fanxing.com/live/fx_hifi_1653488359_avc.flv
-#EXTINF:-1 group-title="影视",成龙电影系列
-http://tx.liveplay.live.fanxing.com/live/fx_hifi_1703410100_avc.flv
-#EXTINF:-1 group-title="影视",票房经典喜剧
-http://tx.liveplay.live.kugou.com/live/fx_hifi_1709548737_avc.flv
-#EXTINF:-1 group-title="影视",美女影院
-http://tx.liveplay.live.kugou.com/live/fx_hifi_1789509948_avc.flv
-#EXTINF:-1 group-title="影视",动漫剧场
-http://tx.liveplay.live.fanxing.com/live/fx_hifi_225631370_avc.flv
-#EXTINF:-1 group-title="影视",经典影视
-http://tx.liveplay.live.kugou.com/live/fx_hifi_251702616_avc.flv
-#EXTINF:-1 group-title="影视",侦探悬疑剧场
-http://tx.liveplay.live.fanxing.com/live/fx_hifi_364150465_avc.flv
+#EXTINF:-1 group-title="影视",4K HDR Dolby Atmos
+http://zzy789.xyz/douyu1.php?id=9249162
+#EXTINF:-1 group-title="影视",☆老头酱☆4K 超爽动作游戏
+http://zzy789.xyz/douyu1.php?id=706844
+#EXTINF:-1 group-title="影视",[纯经典]怀旧,悬疑,游戏
+http://zzy789.xyz/douyu1.php?id=8663752
+#EXTINF:-1 group-title="影视",野生动物世界
+http://zzy789.xyz/douyu1.php?id=9951215
+#EXTINF:-1 group-title="影视",四大名著(原版)
+http://zzy789.xyz/douyu1.php?id=1046540
+#EXTINF:-1 group-title="影视",❤干 饭 人❤
+http://zzy789.xyz/douyu1.php?id=104984
+#EXTINF:-1 group-title="影视",[正道的光]大漠叔叔在线普法
+http://zzy789.xyz/douyu1.php?id=1109218
+#EXTINF:-1 group-title="影视",[周星驰]星爷.华语.经典.电影.神乐
+http://zzy789.xyz/douyu1.php?id=122402
+#EXTINF:-1 group-title="影视",[奥雷]带你看遍奇葩老电影
+http://zzy789.xyz/douyu1.php?id=1224356
+#EXTINF:-1 group-title="影视",[粤语电影]吴孟达 达叔 周星驰 经典
+http://zzy789.xyz/douyu1.php?id=1226741
+#EXTINF:-1 group-title="影视",❤院长大大❤339影院
+http://zzy789.xyz/douyu1.php?id=1274132
+#EXTINF:-1 group-title="影视",楚汉傳奇
+http://zzy789.xyz/douyu1.php?id=1308848
+#EXTINF:-1 group-title="影视",[R-点播]点播！模式-24H欢乐不断
+http://zzy789.xyz/douyu1.php?id=131977
+#EXTINF:-1 group-title="影视",荒野求生
+http://zzy789.xyz/douyu1.php?id=1339207
+#EXTINF:-1 group-title="影视",[姽婳]九亿少男的梦
+http://zzy789.xyz/douyu1.php?id=1409682
+#EXTINF:-1 group-title="影视",[飞碟说]一分钟了解知识
+http://zzy789.xyz/douyu1.php?id=1449125
+#EXTINF:-1 group-title="影视",[天使点播]官方动漫直播间
+http://zzy789.xyz/douyu1.php?id=1487654
+#EXTINF:-1 group-title="影视",经典.动作.惊悚.悬疑.连续剧
+http://zzy789.xyz/douyu1.php?id=1504768
+#EXTINF:-1 group-title="影视",百大UP主最新视频-每周一更新
+http://zzy789.xyz/douyu1.php?id=1557505
+#EXTINF:-1 group-title="影视",❤想见你的饼❤蓝光 高分 经典 影视
+http://zzy789.xyz/douyu1.php?id=1735337
+#EXTINF:-1 group-title="影视",交通站的故事!
+http://zzy789.xyz/douyu1.php?id=1781666
+#EXTINF:-1 group-title="影视",[美剧]几分钟看经典美剧!
+http://zzy789.xyz/douyu1.php?id=1979257
+#EXTINF:-1 group-title="影视",❤可乐❤电影 欧美 科幻 经典
+http://zzy789.xyz/douyu1.php?id=20415
+#EXTINF:-1 group-title="影视",[动漫]热血 木叶忍者 草帽路飞 青春
+http://zzy789.xyz/douyu1.php?id=206858
+#EXTINF:-1 group-title="影视",[瑶瑶]胡八一 鹧鸪哨
+http://zzy789.xyz/douyu1.php?id=2083382
+#EXTINF:-1 group-title="影视",电影最TOP
+http://zzy789.xyz/douyu1.php?id=2164691
+#EXTINF:-1 group-title="影视",[林正英]僵尸.女鬼.弹幕.护体
+http://zzy789.xyz/douyu1.php?id=218859
+#EXTINF:-1 group-title="影视",海绵与大星
+http://zzy789.xyz/douyu1.php?id=2250349
+#EXTINF:-1 group-title="影视",超清港剧直播间
+http://zzy789.xyz/douyu1.php?id=223521
+#EXTINF:-1 group-title="影视",[悬疑]都市猎奇传说-恐怖故事
+http://zzy789.xyz/douyu1.php?id=2337939
+#EXTINF:-1 group-title="影视",译制国语影片荟萃
+http://zzy789.xyz/douyu1.php?id=2436390
+#EXTINF:-1 group-title="影视",[粤语频道]电影点播
+http://zzy789.xyz/douyu1.php?id=2466104
+#EXTINF:-1 group-title="影视",[s1134]经典.科幻.动作.灾难
+http://zzy789.xyz/douyu1.php?id=248753
+#EXTINF:-1 group-title="影视",✨诺诺陪看✨欧美 经典 电视剧
+http://zzy789.xyz/douyu1.php?id=252536
+#EXTINF:-1 group-title="影视",[贝爷影厅]经典.科幻.动作.灾难.巨兽
+http://zzy789.xyz/douyu1.php?id=252802
+#EXTINF:-1 group-title="影视",懒猫 美食家 点播
+http://zzy789.xyz/douyu1.php?id=260322
+#EXTINF:-1 group-title="影视",[刘哔电影]带你看不一样的电影
+http://zzy789.xyz/douyu1.php?id=2632223
+#EXTINF:-1 group-title="影视",❤奶虫❤恐怖 丧尸 鬼片 灾难
+http://zzy789.xyz/douyu1.php?id=263824
+#EXTINF:-1 group-title="影视",[速看]爆笑解说 欢乐百分百!
+http://zzy789.xyz/douyu1.php?id=2660125
+#EXTINF:-1 group-title="影视",刘华强你这呱保熟吗
+http://zzy789.xyz/douyu1.php?id=2726977
+#EXTINF:-1 group-title="影视",[牛叔]N分钟带你看完大片
+http://zzy789.xyz/douyu1.php?id=2758565
+#EXTINF:-1 group-title="影视",[蓝翔]弹幕天团 下饭神剧
+http://zzy789.xyz/douyu1.php?id=276200
+#EXTINF:-1 group-title="影视",[经典巨制]欧美大片
+http://zzy789.xyz/douyu1.php?id=2793084
+#EXTINF:-1 group-title="影视",✨曾小贤✨胡一菲✨第三季✨第一季✨
+http://zzy789.xyz/douyu1.php?id=2838296
+#EXTINF:-1 group-title="影视",李子柒-田园仙境有佳人
+http://zzy789.xyz/douyu1.php?id=2901080
+#EXTINF:-1 group-title="影视",[瑶瑶]童年阴影 鬼片 恐怖 惊悚
+http://zzy789.xyz/douyu1.php?id=2935323
+#EXTINF:-1 group-title="影视",鼎香楼的故事
+http://zzy789.xyz/douyu1.php?id=299854
+#EXTINF:-1 group-title="影视",[恐怖电影]鬼片 僵尸 灾难 丧尸片
+http://zzy789.xyz/douyu1.php?id=310926
+#EXTINF:-1 group-title="影视",漫威 科幻 动作 欧美 灾难
+http://zzy789.xyz/douyu1.php?id=315131
+#EXTINF:-1 group-title="影视",[香港赌片]喜剧.黑帮.动作.武侠.经典
+http://zzy789.xyz/douyu1.php?id=315457
+#EXTINF:-1 group-title="影视",正常开播-电视剧
+http://zzy789.xyz/douyu1.php?id=319576
+#EXTINF:-1 group-title="影视",[小宇60帧]科幻 动作 灾难喜剧 电影
+http://zzy789.xyz/douyu1.php?id=323876
+#EXTINF:-1 group-title="影视",[经典 高分 美剧]
+http://zzy789.xyz/douyu1.php?id=3337730
+#EXTINF:-1 group-title="影视",金庸武侠-古装神剧
+http://zzy789.xyz/douyu1.php?id=338759
+#EXTINF:-1 group-title="影视",杀死燕双鹰.活捉狄仁杰!
+http://zzy789.xyz/douyu1.php?id=3439096
+#EXTINF:-1 group-title="影视",[科幻Fans]精彩科幻影视-解说连连看
+http://zzy789.xyz/douyu1.php?id=3508304
+#EXTINF:-1 group-title="影视",南南AKRAPOVIC[僵尸]
+http://zzy789.xyz/douyu1.php?id=3627728
+#EXTINF:-1 group-title="影视",[贝爷影厅]2号厅.欧美.日韩.国产
+http://zzy789.xyz/douyu1.php?id=36337
+#EXTINF:-1 group-title="影视",港式恐怖 经典再现
+http://zzy789.xyz/douyu1.php?id=3637726
+#EXTINF:-1 group-title="影视",功夫巨制 经典功夫港片
+http://zzy789.xyz/douyu1.php?id=3637765
+#EXTINF:-1 group-title="影视",[特辑]追龙已成往事-沈腾终成大局
+http://zzy789.xyz/douyu1.php?id=3637778
+#EXTINF:-1 group-title="影视",[特摄剧场]非一般的经典
+http://zzy789.xyz/douyu1.php?id=3705472
+#EXTINF:-1 group-title="影视",用细致的角度观察电影
+http://zzy789.xyz/douyu1.php?id=3715426
+#EXTINF:-1 group-title="影视",诃德先生[宋江]
+http://zzy789.xyz/douyu1.php?id=3758762
+#EXTINF:-1 group-title="影视",刘老根
+http://zzy789.xyz/douyu1.php?id=3789245
+#EXTINF:-1 group-title="影视",[电影天堂]优秀电影展播
+http://zzy789.xyz/douyu1.php?id=3811092
+#EXTINF:-1 group-title="影视",蓝光画质电视剧
+http://zzy789.xyz/douyu1.php?id=3831627
+#EXTINF:-1 group-title="影视",分享好歌-以歌会友
+http://zzy789.xyz/douyu1.php?id=3870925
+#EXTINF:-1 group-title="影视",[小鸽陪看]动作 枪战 经典 科幻
+http://zzy789.xyz/douyu1.php?id=3928
+#EXTINF:-1 group-title="影视",清汤寡水之情景喜剧
+http://zzy789.xyz/douyu1.php?id=3980787
+#EXTINF:-1 group-title="影视",经典港剧 古装剧
+http://zzy789.xyz/douyu1.php?id=4147520
+#EXTINF:-1 group-title="影视",[邵氏影院]经典武侠 动作
+http://zzy789.xyz/douyu1.php?id=4246519
+#EXTINF:-1 group-title="影视",小片片说大片
+http://zzy789.xyz/douyu1.php?id=4258555
+#EXTINF:-1 group-title="影视",武侠浪子的美食分享
+http://zzy789.xyz/douyu1.php?id=4262598
+#EXTINF:-1 group-title="影视",晓妞动漫花园
+http://zzy789.xyz/douyu1.php?id=426517
+#EXTINF:-1 group-title="影视",超清1经典港剧天地
+http://zzy789.xyz/douyu1.php?id=4290711
+#EXTINF:-1 group-title="影视",[贝贝]军旅 喜剧 动作 意大利炮
+http://zzy789.xyz/douyu1.php?id=431460
+#EXTINF:-1 group-title="影视",[贝爷MAX厅]科幻 动作 经典 喜剧
+http://zzy789.xyz/douyu1.php?id=4332
+#EXTINF:-1 group-title="影视",❤怡寳❤ 科幻 喜剧 惊悚 恐怖
+http://zzy789.xyz/douyu1.php?id=434971
+#EXTINF:-1 group-title="影视",动物自然24h
+http://zzy789.xyz/douyu1.php?id=4360438
+#EXTINF:-1 group-title="影视",傲娇的超级赛亚人
+http://zzy789.xyz/douyu1.php?id=4373285
+#EXTINF:-1 group-title="影视",❤杭州❤今天又是想见你的一天
+http://zzy789.xyz/douyu1.php?id=4396972
+#EXTINF:-1 group-title="影视",讲故事的角马 一起看电影
+http://zzy789.xyz/douyu1.php?id=4400816
+#EXTINF:-1 group-title="影视",麓山迷踪-邪 虐 异 染 绝
+http://zzy789.xyz/douyu1.php?id=4505431
+#EXTINF:-1 group-title="影视",贝尔求生
+http://zzy789.xyz/douyu1.php?id=454867
+#EXTINF:-1 group-title="影视",[橙子Orange]最人气港剧直播间
+http://zzy789.xyz/douyu1.php?id=4549169
+#EXTINF:-1 group-title="影视",经典影视剧
+http://zzy789.xyz/douyu1.php?id=4744905
+#EXTINF:-1 group-title="影视",我欲成仙-快乐齐天
+http://zzy789.xyz/douyu1.php?id=4763864
+#EXTINF:-1 group-title="影视",杨柳北里202
+http://zzy789.xyz/douyu1.php?id=4871722
+#EXTINF:-1 group-title="影视",四阿哥九子夺嫡
+http://zzy789.xyz/douyu1.php?id=4944033
+#EXTINF:-1 group-title="影视",疯狂小瑟瑟
+http://zzy789.xyz/douyu1.php?id=5008089
+#EXTINF:-1 group-title="影视",TopGear TheGrandTour
+http://zzy789.xyz/douyu1.php?id=501455
+#EXTINF:-1 group-title="影视",[话事人]粤语.周星驰.林正英
+http://zzy789.xyz/douyu1.php?id=5033502
+#EXTINF:-1 group-title="影视",[网神影厅]经典 科幻 动作 灾难 二战
+http://zzy789.xyz/douyu1.php?id=508118
+#EXTINF:-1 group-title="影视",游戏王
+http://zzy789.xyz/douyu1.php?id=5100147
+#EXTINF:-1 group-title="影视",懒懒壁虎直播间
+http://zzy789.xyz/douyu1.php?id=5127679
+#EXTINF:-1 group-title="影视",[禁忌]恐怖.丧尸.惊悚
+http://zzy789.xyz/douyu1.php?id=5129261
+#EXTINF:-1 group-title="影视",谷立方直播
+http://zzy789.xyz/douyu1.php?id=5249466
+#EXTINF:-1 group-title="影视",超清3人气港剧天地
+http://zzy789.xyz/douyu1.php?id=5261342
+#EXTINF:-1 group-title="影视",盗墓题材
+http://zzy789.xyz/douyu1.php?id=5265983
+#EXTINF:-1 group-title="影视",[花卷陪看]豆瓣高分电影
+http://zzy789.xyz/douyu1.php?id=52787
+#EXTINF:-1 group-title="影视",[搞笑]下饭神剧 童年回忆
+http://zzy789.xyz/douyu1.php?id=5422706
+#EXTINF:-1 group-title="影视",[表妹]国产青春.动作.喜剧轮播
+http://zzy789.xyz/douyu1.php?id=5423
+#EXTINF:-1 group-title="影视",[经典搞笑电视剧]轮播♥高清
+http://zzy789.xyz/douyu1.php?id=5429211
+#EXTINF:-1 group-title="影视",[胡椒粉的胡歌]胡歌 经典 漫威 星爷
+http://zzy789.xyz/douyu1.php?id=5448413
+#EXTINF:-1 group-title="影视",[小瑟瑟西天取经房1]
+http://zzy789.xyz/douyu1.php?id=5472438
+#EXTINF:-1 group-title="影视",林正英♥僵尸女鬼恐怖片♥
+http://zzy789.xyz/douyu1.php?id=5503962
+#EXTINF:-1 group-title="影视",[超清2]热门港剧天地
+http://zzy789.xyz/douyu1.php?id=5522351
+#EXTINF:-1 group-title="影视",恐怖❤️悬疑❤️鬼片❤️僵尸❤️搞笑
+http://zzy789.xyz/douyu1.php?id=5581257
+#EXTINF:-1 group-title="影视",培根悖论唠唠嗑电影
+http://zzy789.xyz/douyu1.php?id=5354713
+#EXTINF:-1 group-title="影视",[大片]科幻.动作.魔幻.喜剧
+http://zzy789.xyz/douyu1.php?id=562225
+#EXTINF:-1 group-title="影视",❤欣欣陪看电视剧❤
+http://zzy789.xyz/douyu1.php?id=5635000
+#EXTINF:-1 group-title="影视",佛系--爆笑
+http://zzy789.xyz/douyu1.php?id=5689514
+#EXTINF:-1 group-title="影视",[专业烧脑]直播间
+http://zzy789.xyz/douyu1.php?id=5802446
+#EXTINF:-1 group-title="影视",庆余年 范闲 王启年 陈萍萍
+http://zzy789.xyz/douyu1.php?id=5908256
+#EXTINF:-1 group-title="影视",最早港剧点播
+http://zzy789.xyz/douyu1.php?id=59612
+#EXTINF:-1 group-title="影视",美女不仅好看还能干
+http://zzy789.xyz/douyu1.php?id=5965851
+#EXTINF:-1 group-title="影视",元芳到底看不看
+http://zzy789.xyz/douyu1.php?id=7314294
+#EXTINF:-1 group-title="影视",❄蚂蚱❄1.5倍亲密度
+http://zzy789.xyz/douyu1.php?id=6079455
+#EXTINF:-1 group-title="影视",[夜魔人]老王解说惊悚的罪案
+http://zzy789.xyz/douyu1.php?id=610972
+#EXTINF:-1 group-title="影视",❤经典古装❤元芳~你怎么看
+http://zzy789.xyz/douyu1.php?id=6166636
+#EXTINF:-1 group-title="影视",❤奶瓶❤经典电视剧梁山好汉108将
+http://zzy789.xyz/douyu1.php?id=6241733
+#EXTINF:-1 group-title="影视",片源多多
+http://zzy789.xyz/douyu1.php?id=6332732
+#EXTINF:-1 group-title="影视",情喜影剧集锦
+http://zzy789.xyz/douyu1.php?id=6369954
+#EXTINF:-1 group-title="影视",天下第一屮鸠摩智看剧
+http://zzy789.xyz/douyu1.php?id=6497464
+#EXTINF:-1 group-title="影视",[米娅陪看]喜剧科幻电影真人互动
+http://zzy789.xyz/douyu1.php?id=6537888
+#EXTINF:-1 group-title="影视",❤奶瓶❤港片 刘德华 周润发 电影
+http://zzy789.xyz/douyu1.php?id=6546908
+#EXTINF:-1 group-title="影视",⭐圆子⭐萌妹陪看 电视剧 电影 动漫
+http://zzy789.xyz/douyu1.php?id=6566658
+#EXTINF:-1 group-title="影视",粤语电影⭐周星驰林正英
+http://zzy789.xyz/douyu1.php?id=6566671
+#EXTINF:-1 group-title="影视",♥港剧 动漫 美剧❤
+http://zzy789.xyz/douyu1.php?id=6581531
+#EXTINF:-1 group-title="影视",[師落]大秦男儿 勿忘东出
+http://zzy789.xyz/douyu1.php?id=6582435
+#EXTINF:-1 group-title="影视",家有儿女杨紫下饭剧
+http://zzy789.xyz/douyu1.php?id=6648727
+#EXTINF:-1 group-title="影视",神剧-燕双鹰 元芳 狄胖胖
+http://zzy789.xyz/douyu1.php?id=6690194
+#EXTINF:-1 group-title="影视",港片 破案
+http://zzy789.xyz/douyu1.php?id=6733135
+#EXTINF:-1 group-title="影视",狄仁杰:想听听我的故事吗
+http://zzy789.xyz/douyu1.php?id=674441
+#EXTINF:-1 group-title="影视",玉儿陪看-经典电影
+http://zzy789.xyz/douyu1.php?id=675072
+#EXTINF:-1 group-title="影视",[高帧]成龙/动作/武侠/动作
+http://zzy789.xyz/douyu1.php?id=6763930
+#EXTINF:-1 group-title="影视",贾队长~原版独播
+http://zzy789.xyz/douyu1.php?id=6778282
+#EXTINF:-1 group-title="影视",[果条]梁山好汉剧场
+http://zzy789.xyz/douyu1.php?id=6785471
+#EXTINF:-1 group-title="影视",[怀旧]姜子牙-孙悟空打妖怪的故事
+http://zzy789.xyz/douyu1.php?id=6861249
+#EXTINF:-1 group-title="影视",爱情公寓
+http://zzy789.xyz/douyu1.php?id=6863367
+#EXTINF:-1 group-title="影视",经典港片周星驰周润发成龙刘德华
+http://zzy789.xyz/douyu1.php?id=7029806
+#EXTINF:-1 group-title="影视",❤小九❤五月的天
+http://zzy789.xyz/douyu1.php?id=7136517
+#EXTINF:-1 group-title="影视",[超级赛亚人]悟吉塔
+http://zzy789.xyz/douyu1.php?id=7190773
+#EXTINF:-1 group-title="影视",豆子☆[武义李大本事]
+http://zzy789.xyz/douyu1.php?id=7226091
+#EXTINF:-1 group-title="影视",[Liz]陪看电影
+http://zzy789.xyz/douyu1.php?id=7254536
+#EXTINF:-1 group-title="影视",反手一个好家伙
+http://zzy789.xyz/douyu1.php?id=7270927
+#EXTINF:-1 group-title="影视",[凤凰堂]
+http://zzy789.xyz/douyu1.php?id=7292330
+#EXTINF:-1 group-title="影视",[RM-轮播]轮播!模式-韩综
+http://zzy789.xyz/douyu1.php?id=7298973
+#EXTINF:-1 group-title="影视",是云宝呢[影院]
+http://zzy789.xyz/douyu1.php?id=7305938
+#EXTINF:-1 group-title="影视",[柯南看经典]历史 武侠
+http://zzy789.xyz/douyu1.php?id=7314294
+#EXTINF:-1 group-title="影视",肖胜350的直播间
+http://zzy789.xyz/douyu1.php?id=7338853
+#EXTINF:-1 group-title="影视",全网最清晰林正英
+http://zzy789.xyz/douyu1.php?id=7356023
+#EXTINF:-1 group-title="影视",天堂经典影院
+http://zzy789.xyz/douyu1.php?id=7359565
+#EXTINF:-1 group-title="影视",经典欧美日动画
+http://zzy789.xyz/douyu1.php?id=7412199
+#EXTINF:-1 group-title="影视",[沙雕]
+http://zzy789.xyz/douyu1.php?id=7421687
+#EXTINF:-1 group-title="影视",[冰冰]电影电视剧陪你
+http://zzy789.xyz/douyu1.php?id=74374
+#EXTINF:-1 group-title="影视",[蓝翔]经典电视剧
+http://zzy789.xyz/douyu1.php?id=7459925
+#EXTINF:-1 group-title="影视",韦小宝
+http://zzy789.xyz/douyu1.php?id=7473576
+#EXTINF:-1 group-title="影视",每天不重复-好剧播不停
+http://zzy789.xyz/douyu1.php?id=7476264
+#EXTINF:-1 group-title="影视",[女神金]极致蓝光 刀刀陪看
+http://zzy789.xyz/douyu1.php?id=747764
+#EXTINF:-1 group-title="影视",[庆帝]大片片说小片
+http://zzy789.xyz/douyu1.php?id=7489563
+#EXTINF:-1 group-title="影视",经典怀旧
+http://zzy789.xyz/douyu1.php?id=7495810
+#EXTINF:-1 group-title="影视",快进贱-睡眠好剧
+http://zzy789.xyz/douyu1.php?id=7517784
+#EXTINF:-1 group-title="影视",悄悄喂一下小鲨鱼
+http://zzy789.xyz/douyu1.php?id=7528160
+#EXTINF:-1 group-title="影视",大家一定要先喂喂小鲨鱼-来的时候
+http://zzy789.xyz/douyu1.php?id=7528160
+#EXTINF:-1 group-title="影视",[康熙]
+http://zzy789.xyz/douyu1.php?id=7550220
+#EXTINF:-1 group-title="影视",佳佳的全世界[逃出监狱]
+http://zzy789.xyz/douyu1.php?id=7575350
+#EXTINF:-1 group-title="影视",[天使点播]官方电视剧直播间
+http://zzy789.xyz/douyu1.php?id=7623292
+#EXTINF:-1 group-title="影视",❤️奶瓶❤️金庸武侠剧
+http://zzy789.xyz/douyu1.php?id=7644931
+#EXTINF:-1 group-title="影视",武侠剧
+http://zzy789.xyz/douyu1.php?id=7655471
+#EXTINF:-1 group-title="影视",经典 科幻 魔幻 动作 励志
+http://zzy789.xyz/douyu1.php?id=7673566
+#EXTINF:-1 group-title="影视",来.看.来.战斗
+http://zzy789.xyz/douyu1.php?id=7686674
+#EXTINF:-1 group-title="影视",❤小饼❤蓝光 胡八一 经典电视剧
+http://zzy789.xyz/douyu1.php?id=7701735
+#EXTINF:-1 group-title="影视",[超清]经典电视剧
+http://zzy789.xyz/douyu1.php?id=7778999
+#EXTINF:-1 group-title="影视",大宋神探
+http://zzy789.xyz/douyu1.php?id=7784862
+#EXTINF:-1 group-title="影视",曾经的回忆
+http://zzy789.xyz/douyu1.php?id=7812810
+#EXTINF:-1 group-title="影视",别找了-就我了
+http://zzy789.xyz/douyu1.php?id=7842226
+#EXTINF:-1 group-title="影视",I凌云渡I
+http://zzy789.xyz/douyu1.php?id=785252
+#EXTINF:-1 group-title="影视",千部经典[电影]持续更新
+http://zzy789.xyz/douyu1.php?id=7882691
+#EXTINF:-1 group-title="影视",粤语港剧 是回忆
+http://zzy789.xyz/douyu1.php?id=7919720
+#EXTINF:-1 group-title="影视",❤今天工作辛苦啦❤
+http://zzy789.xyz/douyu1.php?id=7925840
+#EXTINF:-1 group-title="影视",[果条]历史电视剧
+http://zzy789.xyz/douyu1.php?id=8168353
+#EXTINF:-1 group-title="影视",七哥WR
+http://zzy789.xyz/douyu1.php?id=8252036
+#EXTINF:-1 group-title="影视",刘老师说电影
+http://zzy789.xyz/douyu1.php?id=8317926
+#EXTINF:-1 group-title="影视",[体育]科比.乔丹.篮球明星的过去
+http://zzy789.xyz/douyu1.php?id=8434598
+#EXTINF:-1 group-title="影视",卫国无敌
+http://zzy789.xyz/douyu1.php?id=8479500
+#EXTINF:-1 group-title="影视",[神乐]华语.经典.电影.刘德华.周星驰
+http://zzy789.xyz/douyu1.php?id=85894
+#EXTINF:-1 group-title="影视",[Firend黎伽嘛]粤语港产片爱好者
+http://zzy789.xyz/douyu1.php?id=8603174
+#EXTINF:-1 group-title="影视",[综艺]搞笑影视综艺解说时间到了
+http://zzy789.xyz/douyu1.php?id=8657920
+#EXTINF:-1 group-title="影视",秋叶圓的直播间
+http://zzy789.xyz/douyu1.php?id=8756805
+#EXTINF:-1 group-title="影视",[三炮]几分钟看完一部电影
+http://zzy789.xyz/douyu1.php?id=8768613
+#EXTINF:-1 group-title="影视",科幻战舰-科幻片解说
+http://zzy789.xyz/douyu1.php?id=8772060
+#EXTINF:-1 group-title="影视",闯关东
+http://zzy789.xyz/douyu1.php?id=8787737
+#EXTINF:-1 group-title="影视",发现放映室
+http://zzy789.xyz/douyu1.php?id=8791622
+#EXTINF:-1 group-title="影视",大胡子魏的直播间
+http://zzy789.xyz/douyu1.php?id=8792763
+#EXTINF:-1 group-title="影视",晚晚]话多陪看女唐僧唠嗑
+http://zzy789.xyz/douyu1.php?id=8861179
+#EXTINF:-1 group-title="影视",虫哥说电影
+http://zzy789.xyz/douyu1.php?id=8915074
+#EXTINF:-1 group-title="影视",[林正英]经典 僵尸 女鬼
+http://zzy789.xyz/douyu1.php?id=8921999
+#EXTINF:-1 group-title="影视",[午夜消暑]伊藤润二恐怖漫画解说
+http://zzy789.xyz/douyu1.php?id=8936207
+#EXTINF:-1 group-title="影视",张二千11[屠龙]
+http://zzy789.xyz/douyu1.php?id=8945323
+#EXTINF:-1 group-title="影视",[佳佳影院]
+http://zzy789.xyz/douyu1.php?id=8985119
+#EXTINF:-1 group-title="影视",都是奔奔的错[西游记]
+http://zzy789.xyz/douyu1.php?id=8953746
+#EXTINF:-1 group-title="影视",潘金莲-武松那点事儿
+http://zzy789.xyz/douyu1.php?id=8986636
+#EXTINF:-1 group-title="影视",开心锤锤.开心快乐每一天
+http://zzy789.xyz/douyu1.php?id=9018297
+#EXTINF:-1 group-title="影视",美娘家的猪猪[法证]
+http://zzy789.xyz/douyu1.php?id=9019945
+#EXTINF:-1 group-title="影视",开心嘴炮来-疯狂吐槽辣眼雷剧
+http://zzy789.xyz/douyu1.php?id=9026377
+#EXTINF:-1 group-title="影视",专业解说柯南直播间
+http://zzy789.xyz/douyu1.php?id=9065082
+#EXTINF:-1 group-title="影视",经典小品相声
+http://zzy789.xyz/douyu1.php?id=9067836
+#EXTINF:-1 group-title="影视",[悬疑]解说午夜惊悚乐园
+http://zzy789.xyz/douyu1.php?id=9075333
 #EXTINF:-1 group-title="影视",电视剧
-http://tx.liveplay.live.kugou.com/live/fx_hifi_102450933_avc.flv
-#EXTINF:-1 group-title="影视",经典影院
-http://tx.liveplay.live.fanxing.com/live/fx_hifi_290507595_std_avc.flv
-#EXTINF:-1 group-title="影视",经典电视剧2
-http://tx.liveplay.live.fanxing.com/live/fx_hifi_295543378_avc.flv
-#EXTINF:-1 group-title="影视",KK经典好剧
-http://hpull.kktv8.com/livekktv/153793844/playlist.m3u8
-#EXTINF:-1 group-title="影视",KK科幻怪兽
-http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
-#EXTINF:-1 group-title="影视",KK喜剧电影
-http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-#EXTINF:-1 group-title="影视",KK女神影院
-http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-#EXTINF:-1 group-title="影视",KK开心影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="影视",四驱兄弟(台版) WGP MAX
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=10544270
-#EXTINF:-1 group-title="影视",大秦帝国
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=11259274
-#EXTINF:-1 group-title="影视",地大物博怎么能少了吃法
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=11709851
-#EXTINF:-1 group-title="影视",tbb电影动画综艺or吃吃吃吃粤语
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=136843
-#EXTINF:-1 group-title="影视",炊事班的故事1,2部-清凉一夏
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=14457148
-#EXTINF:-1 group-title="影视",微笑百事达+恶作剧之吻
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=15083950
-#EXTINF:-1 group-title="影视",刘德华电影
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=15131066
-#EXTINF:-1 group-title="影视",名侦探柯南 日语
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=181453
-#EXTINF:-1 group-title="影视",柯南主线剧集-弹幕聊天
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=1895574
-#EXTINF:-1 group-title="影视",林正英鬼片
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=193
-#EXTINF:-1 group-title="影视",医馆笑传.全集-经典搞笑
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21070400
-#EXTINF:-1 group-title="影视",高画质/恶作剧之吻1-2部
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21298611
-#EXTINF:-1 group-title="影视",炊事班的故事
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21354981
-#EXTINF:-1 group-title="影视",小肥肥西片
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21377115
-#EXTINF:-1 group-title="影视",周星驰电影
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21448296
-#EXTINF:-1 group-title="影视",高画质 主粤语
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21515763
-#EXTINF:-1 group-title="影视",天地争霸美猴王
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21657651
-#EXTINF:-1 group-title="影视",高分大片
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21680912
-#EXTINF:-1 group-title="影视",怎么又是我呢-炊事班的故事
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21684683
-#EXTINF:-1 group-title="影视",最高画质 命中注定我爱你
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21694925
-#EXTINF:-1 group-title="影视",194集猫和老鼠
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=2171135
-#EXTINF:-1 group-title="影视",功夫台
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21715386
-#EXTINF:-1 group-title="影视",经典番剧/动漫/剧场版
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21751462
-#EXTINF:-1 group-title="影视",邵氏影院-经典武侠 动作 老电影
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21759196
-#EXTINF:-1 group-title="影视",怀旧经典剧 武侠 神话 神断案
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21763462
-#EXTINF:-1 group-title="影视",齐天大圣孙悟空-古典神话系列
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21791019
-#EXTINF:-1 group-title="影视",老高的奇幻世界
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21882327
-#EXTINF:-1 group-title="影视",郭德纲理论
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=21996402
-#EXTINF:-1 group-title="影视",七十二家房客
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=22013050
-#EXTINF:-1 group-title="影视",赛文奥特曼OV
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=22054619
-#EXTINF:-1 group-title="影视",聊斋志异+聊斋奇女子
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=22128694
-#EXTINF:-1 group-title="影视",德云社-郭德纲
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=22239221
-#EXTINF:-1 group-title="影视",终极一班
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=22587179
-#EXTINF:-1 group-title="影视",铁齿铜牙纪晓岚 神探狄仁杰 人间正道
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=22665698
-#EXTINF:-1 group-title="影视",放羊的星星24h
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=22776783
-#EXTINF:-1 group-title="影视",闲人马大姐-当年的下饭神剧
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=22786199
-#EXTINF:-1 group-title="影视",尤夜叉
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=23089518
-#EXTINF:-1 group-title="影视",少年包青天高清123神雕侠侣雕英雄传
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=23145747
-#EXTINF:-1 group-title="影视",4K耀祖哥1
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=23150921
-#EXTINF:-1 group-title="影视",4K耀祖哥2
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=23398113
-#EXTINF:-1 group-title="影视",少年包青天-三部全
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=2803563
-#EXTINF:-1 group-title="影视",经典电影
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=2982619
-#EXTINF:-1 group-title="影视",德云社-郭德纲于谦
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=308438
-#EXTINF:-1 group-title="影视",早安-地球(挂机看剧.神位纷争)
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=3202651
-#EXTINF:-1 group-title="影视",粤语片
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=3568283
-#EXTINF:-1 group-title="影视",王子变青蛙
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=3712061
-#EXTINF:-1 group-title="影视",我和僵尸有个约会三部曲(粤语)
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=428247
-#EXTINF:-1 group-title="影视",动作电影
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=47917
-#EXTINF:-1 group-title="影视",少年包青天 暴雨梨花针 开封包黑炭
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=4928767
-#EXTINF:-1 group-title="影视",龙门快递
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=5111549
-#EXTINF:-1 group-title="影视",红楼梦
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=5568482
-#EXTINF:-1 group-title="影视",郭德纲
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=5854051
-#EXTINF:-1 group-title="影视",新白娘子传奇
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=5960549
-#EXTINF:-1 group-title="影视",樱桃小丸子
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=6554860
-#EXTINF:-1 group-title="影视",铁齿铜牙纪晓岚
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=6694373
-#EXTINF:-1 group-title="影视",松鼠精选-动作片专场
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=6827037
-#EXTINF:-1 group-title="影视",动作 悬疑 高能 鬼片
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=6837959
-#EXTINF:-1 group-title="影视",还珠格格.24小时轮播中
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=7041847
-#EXTINF:-1 group-title="影视",胡歌(神话)电视剧-聊斋
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=7251976
-#EXTINF:-1 group-title="影视",三国演义
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=7675780
-#EXTINF:-1 group-title="影视",扎导版《龙门镖局》
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=81789
-#EXTINF:-1 group-title="影视",鬼名模
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=82997
-#EXTINF:-1 group-title="影视",红楼梦
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=8412120
-#EXTINF:-1 group-title="影视",少年包青天1
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=8566972
-#EXTINF:-1 group-title="影视",粤语影视
-http://s6757264.xg3.1134184.xyz/zhibo/bili.php?id=8613737
-#EXTINF:-1 group-title="影视",街访Show-西哥来了
-http://txtest-xp2p.p2p.huya.com/src/60637426-60637426-260435761583620096-2125253048-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",徐良除暴安良替天行道
-http://txtest-xp2p.p2p.huya.com/src/1081939992-1081939992-4646896881874501632-2164003440-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",大学Z课堂
-http://txtest-xp2p.p2p.huya.com/src/1332350287-1332350287-5722400909481213952-2544613050-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",陈翔六点半
-http://txtest-xp2p.p2p.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",飞车电影
-http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",卧底&警察的故事
-http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",圣斗士李世民
-http://txtest-xp2p.p2p.huya.com/src/1340763124-1340763124-5758533769262792704-2777026902-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",盗墓笔记少年篇
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777027178-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",上古神器轩辕剑
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777027388-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",愚人节一起笑破肚皮
-http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",恐怖经典电影
-http://txtest-xp2p.p2p.huya.com/src/1388457186-1388457186-5963378205766189056-2777037828-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",黄金配角 | 达叔
-http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",黑帮大片
-http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",RM 刘在石李光洙跑男
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",武林萌主唐小姐
-http://txtest-xp2p.p2p.huya.com/src//1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",新水浒传-‪在‪下正‪是‪西公子
-http://txtest-xp2p.p2p.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",草莽英雄变成抗日英雄
-http://txtest-xp2p.p2p.huya.com/src/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",冲冲冲!给老子上
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253854-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",少年包青天美黑之旅
-http://txtest-xp2p.p2p.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",大宅门
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253858-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",国产悬疑精选
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",纪晓岚-岚宝珅宝的爱恨情仇
-http://txtest-xp2p.p2p.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",一代枭雄为报父仇励精图治
-http://txtest-xp2p.p2p.huya.com/src/1394565206-1394565206-5989611951909502976-2789253868-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",活佛济公
-http://txtest-xp2p.p2p.huya.com/src/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",搞笑的一家人
-http://txtest-xp2p.p2p.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",倚天屠龙记·六大门派围攻光明顶
-http://txtest-xp2p.p2p.huya.com/src/1394565214-1394565214-5989611986269241344-2789253884-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",陆贞传奇
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253886-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",中华小当家
-http://txtest-xp2p.p2p.huya.com/src/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",玄幻剧场·体验另一种生活
-http://txtest-xp2p.p2p.huya.com/src/1394575536-1394575536-5989656318921670656-2789274528-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",群雄逐鹿.窃符救赵
-http://txtest-xp2p.p2p.huya.com/src/1394575537-1394575537-5989656323216637952-2789274530-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",我的团长我的团 超燃抗战
-http://txtest-xp2p.p2p.huya.com/src/1394575538-1394575538-5989656327511605248-2789274532-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",姐妹搞笑都市生活
-http://txtest-xp2p.p2p.huya.com/src/1394575539-1394575539-5989656331806572544-2789274534-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",康熙·民间私访
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",黑帮斗争
-http://txtest-xp2p.p2p.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",王艳的孙蝶真的好美
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274540-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",吐槽·明星大咖自黑现场
-http://txtest-xp2p.p2p.huya.com/src/1449572975-1449572975-6225868520790425600-2789274544-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",开心鬼系列
-http://txtest-xp2p.p2p.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",神探狄仁杰
-http://txtest-xp2p.p2p.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",邻li一家亲 满院白眼狼
-http://txtest-xp2p.p2p.huya.com/src/1394575549-1394575549-5989656374756245504-2789274554-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",DC外国电影
-http://txtest-xp2p.p2p.huya.com/src/1448731701-1448731701-6222255276473450496-2789274560-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",许三多军营成长史
-http://txtest-xp2p.p2p.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",布衣结交天子古今一人
-http://txtest-xp2p.p2p.huya.com/src/1449545371-1449545371-6225749962513186816-2789274568-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",抗日情景喜剧
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",热血学生保家卫国
-http://txtest-xp2p.p2p.huya.com/src/1394575560-1394575560-5989656422000885760-2789274576-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",金庸的武侠世界
-http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",没想到你是这样的猪
-http://txtest-xp2p.p2p.huya.com/src/1449575331-1449575331-6225878639733374976-2789274584-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",喜乐街
-http://txtest-xp2p.p2p.huya.com/src/1394575567-1394575567-5989656452065656832-2789274590-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",雍正皇帝的风云一生
-http://txtest-xp2p.p2p.huya.com/src/1448738195-1448738195-6222283167991070720-2789274594-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",二炮-地狱ヽ妖妖
-http://txtest-xp2p.p2p.huya.com/src/1423782021-1423782021-6115097216827785216-2847687498-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",胡八一胖子沙漠古城找鬼洞
-http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",家有儿女 我叫夏冰雹
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",龙门镖局
-http://txtest-xp2p.p2p.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",看小品·春晚
-http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",宁浩导演-yoo守护TA
-http://txtest-xp2p.p2p.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",合家欢喜剧
-http://txtest-xp2p.p2p.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",经典港片-邻家少女
-http://txtest-xp2p.p2p.huya.com/src/1423782037-1423782037-6115097285547261952-2847687530-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",[猫和老鼠]汤姆和杰瑞的故事
-http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",我的宝贝baby
-http://txtest-xp2p.p2p.huya.com/src/1449567112-1449567112-6225843339397169152-2847687536-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",萌新司机
-http://txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",我们都爱笑卡通
-http://txtest-xp2p.p2p.huya.com/src/1423782044-1423782044-6115097315612033024-2847687544-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",韩国高分动作片
-http://txtest-xp2p.p2p.huya.com/src/1423782047-1423782047-6115097328496934912-2847687550-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",《将夜》终将至-花开彼岸天
-http://txtest-xp2p.p2p.huya.com/src/1449580358-1449580358-6225900230533971968-2847687552-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",卧底警匪片
-http://txtest-xp2p.p2p.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",灾难大片-吞针主播
-http://txtest-xp2p.p2p.huya.com/src/1423782052-1423782052-6115097349971771392-2847687560-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",头文字D·秋名山车神
-http://txtest-xp2p.p2p.huya.com/src/1423782053-1423782053-6115097354266738688-2847687562-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",国外赛车的都是牛人
-http://txtest-xp2p.p2p.huya.com/src/1423782054-1423782054-6115097358561705984-2847687564-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",医馆笑传
-http://txtest-xp2p.p2p.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",经典港式功夫招牌
-http://txtest-xp2p.p2p.huya.com/src/1423782056-1423782056-6115097367151640576-2847687568-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",粤语喜剧专场
-http://txtest-xp2p.p2p.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",科幻系列-硬核浪漫
-http://txtest-xp2p.p2p.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",灵剑山·试炼开启
-http://txtest-xp2p.p2p.huya.com/src/1449574089-1449574089-6225873305383993344-2847687582-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",抗日大片
-http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",汉武大帝.七国之乱
-http://txtest-xp2p.p2p.huya.com/src/59087345-59087345-253778214382469120-2847687592-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",死神来了系列
-http://txtest-xp2p.p2p.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",燃青春!热血男儿中国心
-http://txtest-xp2p.p2p.huya.com/src/1423782076-1423782076-6115097453050986496-2847687608-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",荒漠中的枪神
-http://txtest-xp2p.p2p.huya.com/src/1423782077-1423782077-6115097457345953792-2847687610-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",岳云鹏贾玲宋小宝!
-http://txtest-xp2p.p2p.huya.com/src/1449584077-1449584077-6225916203517345792-2847687612-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",笑傲帮 顶尖笑匠再登舞台
-http://txtest-xp2p.p2p.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",赵文卓-经典系列
-http://txtest-xp2p.p2p.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",看颜王如何在新欢旧爱中选择
-http://txtest-xp2p.p2p.huya.com/src/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",丐帮帮主乔峰驾到·樊少皇老戏骨
-http://txtest-xp2p.p2p.huya.com/src/1423782083-1423782083-6115097483115757568-2847687622-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",古墓系列
-http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",极限挑战-双黄联手拆弹绝地求生
-http://txtest-xp2p.p2p.huya.com/src/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",一代经典星爷
-http://txtest-xp2p.p2p.huya.com/src/1449698986-1449698986-6226409733914361856-2847687634-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",孙红雷·硬汉电影
-http://txtest-xp2p.p2p.huya.com/src/43460312-43460312-186660618713956352-2847687638-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",海绵宝宝
-http://txtest-xp2p.p2p.huya.com/src/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",花开正元 孙俪民国上位记
-http://txtest-xp2p.p2p.huya.com/src/1423782098-1423782098-6115097547540267008-2847687652-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",小爱酱
-http://txtest-xp2p.p2p.huya.com/src/1423782104-1423782104-6115097573310070784-2847687664-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",瞬间炸裂!超燃开场
-http://txtest-xp2p.p2p.huya.com/src/1423787819-1423787819-6115122119048167424-2847699094-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",游击队·抗日战争
-http://txtest-xp2p.p2p.huya.com/src/1423787821-1423787821-6115122127638102016-2847699098-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",笑傲江湖 喜剧脱口秀
-http://txtest-xp2p.p2p.huya.com/src/1423787824-1423787824-6115122140523003904-2847699104-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",刘小光·捧腹大笑
-http://txtest-xp2p.p2p.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",康熙大帝的传奇一生
-http://txtest-xp2p.p2p.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",中国功夫-经典大片
-http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",新三国滚滚长江东逝水
-http://txtest-xp2p.p2p.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",看完你也学不会系列
-http://txtest-xp2p.p2p.huya.com/src/1449698763-1449698763-6226408776136654848-2847699120-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",成龍历险记·社会我阿福乌鸦坐飞机
-http://txtest-xp2p.p2p.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",中‪国‪新‪相‪亲‪·大‪型‪男‪女‪口‪嗨‪现‪场
-http://txtest-xp2p.p2p.huya.com/src/1449574865-1449574865-6225876638278615040-2847699130-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",郭德纲于谦满满都是包袱
-http://txtest-xp2p.p2p.huya.com/src/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",邱淑贞太好看了吧
-http://txtest-xp2p.p2p.huya.com/src/1423787843-1423787843-6115122222127382528-2847699142-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",龙门 贵妃拒绝跟皇上亲热
-http://txtest-xp2p.p2p.huya.com/src/1423787848-1423787848-6115122243602219008-2847699152-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",五一爆笑大片 解压解压
-http://txtest-xp2p.p2p.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",美食纪录片
-http://txtest-xp2p.p2p.huya.com/src/1423787851-1423787851-6115122256487120896-2847699158-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",大宅门
-http://txtest-xp2p.p2p.huya.com/src/1423787852-1423787852-6115122260782088192-2847699160-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",神探狄仁杰
-http://txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",高智商越狱
-http://txtest-xp2p.p2p.huya.com/src/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",庆余年
-http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",80后脱口秀
-http://txtest-xp2p.p2p.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",经典高智商犯罪片
-http://txtest-xp2p.p2p.huya.com/src/1423787865-1423787865-6115122316616663040-2847699186-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",谍战系列
-http://txtest-xp2p.p2p.huya.com/src/1449580415-1449580415-6225900475347107840-2847699190-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",[神貂侠侣]陈妍希小笼包版姑姑
-http://txtest-xp2p.p2p.huya.com/src/1423787869-1423787869-6115122333796532224-2847699194-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",经典港剧笑嘻嘻
-http://txtest-xp2p.p2p.huya.com/src/1423787870-1423787870-6115122338091499520-2847699196-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",大明湖畔的夏雨荷
-http://txtest-xp2p.p2p.huya.com/src/1423787874-1423787874-6115122355271368704-2847699204-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",镖行天下 镖在人在
-http://txtest-xp2p.p2p.huya.com/src/1449574253-1449574253-6225874009758629888-2847699210-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",蜡笔小新·逗比少年欢乐多
-http://txtest-xp2p.p2p.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",玄幻专场·国产特效大制作
-http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",韩版犯罪片
-http://txtest-xp2p.p2p.huya.com/src/1448738217-1448738217-6222283262480351232-2847699222-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",芈月和她的三个爱人
-http://txtest-xp2p.p2p.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",第一放映室
-http://txtest-xp2p.p2p.huya.com/src/1445653465-1445653465-6209034353524080640-2847699238-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",陈佩斯的短喜剧
-http://txtest-xp2p.p2p.huya.com/src/1524418065-1524418065-6547325734606602240-3048959586-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",港产搞笑恐怖类
-http://txtest-xp2p.p2p.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",無尾魚
-http://txtest-xp2p.p2p.huya.com/src/1524418074-1524418074-6547325773261307904-3048959604-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",北岛南城
-http://txtest-xp2p.p2p.huya.com/src/1524418076-1524418076-6547325781851242496-3048959608-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",二次元baby 哆啦A梦
-http://txtest-xp2p.p2p.huya.com/src/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",法外狂徒张三李四
-http://txtest-xp2p.p2p.huya.com/src/28302995-28302995-121560437903851520-3048959616-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",Cc 七龍珠改
-http://txtest-xp2p.p2p.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",沈腾合集
-http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",鸽宝小改改
-http://txtest-xp2p.p2p.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",警匪犯罪
-http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",港剧最佳拍档 | 许冠英合集
-http://txtest-xp2p.p2p.huya.com/src/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",嫣然-歪果仁的爆笑大片
-http://txtest-xp2p.p2p.huya.com/src/1524418101-1524418101-6547325889225424896-3048959658-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",粉娘-神医必备 红烧狮子头
-http://txtest-xp2p.p2p.huya.com/src/1524418104-1524418104-6547325902110326784-3048959664-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",西红柿-欢乐颂 22楼姐妹花
-http://txtest-xp2p.p2p.huya.com/src/1524418105-1524418105-6547325906405294080-3048959666-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",yao不能停,在外三藏獒.在家三二哈
-http://txtest-xp2p.p2p.huya.com/src/1524418106-1524418106-6547325910700261376-3048959668-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",小蘑菇  彦祖 颜值巅峰
-http://txtest-xp2p.p2p.huya.com/src/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",母胎solo二百年 韦小宝
-http://txtest-xp2p.p2p.huya.com/src/1524418114-1524418114-6547325945059999744-3048959684-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",历年贺岁档
-http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",王晶首次执导的玄幻武侠剧
-http://txtest-xp2p.p2p.huya.com/src/1420294575-1420294575-6100118750311219200-3048991588-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",摄氏零度 百家讲坛
-http://txtest-xp2p.p2p.huya.com/src/1524434067-1524434067-6547394462673272832-3048991590-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",许氏三杰
-http://txtest-xp2p.p2p.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",老雷 Man威 钢铁侠
-http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",追寻历史的迷窟大冒险走起
-http://txtest-xp2p.p2p.huya.com/src/1524434076-1524434076-6547394501327978496-3048991608-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",勇敢的心
-http://txtest-xp2p.p2p.huya.com/src/92327913-92327913-396545366842933248-3048991612-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",迷失 动作片
-http://txtest-xp2p.p2p.huya.com/src/1524434083-1524434083-6547394531392749568-3048991622-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",脑壳不太好
-http://txtest-xp2p.p2p.huya.com/src/1524434084-1524434084-6547394535687716864-3048991624-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",陈佩斯 吃面小品
-http://txtest-xp2p.p2p.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",小怪兽 喜剧专场
-http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",[吴京]京哥看了都说赞
-http://txtest-xp2p.p2p.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",大懒猫 精彩古装轮播
-http://txtest-xp2p.p2p.huya.com/src/1524434091-1524434091-6547394565752487936-3048991638-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",梦立方·益智闯关秀
-http://txtest-xp2p.p2p.huya.com/src/1524434092-1524434092-6547394570047455232-3048991640-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",杂技艺人闯江湖
-http://txtest-xp2p.p2p.huya.com/src/1524434097-1524434097-6547394591522291712-3048991650-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",中二的骚年 谭SIR
-http://txtest-xp2p.p2p.huya.com/src/1524434105-1524434105-6547394625882030080-3048991666-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",四大裁子之首 王晶 港风导演代表
-http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",小癲 一人之上
-http://txtest-xp2p.p2p.huya.com/src/1524439823-1524439823-6547419184505028608-3049003102-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",红红火火 贺岁合家欢剧场
-http://txtest-xp2p.p2p.huya.com/src/1524439827-1524439827-6547419201684897792-3049003110-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",我爱黑科技
-http://txtest-xp2p.p2p.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",向阳花 ri本女子摔跤大赏
-http://txtest-xp2p.p2p.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",四次元先生
-http://txtest-xp2p.p2p.huya.com/src/1524439831-1524439831-6547419218864766976-3049003118-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",茱麗葉 葛二蛋成长之路
-http://txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",loVe 飘零 大秦帝国
-http://txtest-xp2p.p2p.huya.com/src/1524439835-1524439835-6547419236044636160-3049003126-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",性感大妈 惊心动魄的灾难片
-http://txtest-xp2p.p2p.huya.com/src/1524439836-1524439836-6547419240339603456-3049003128-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",寞尛北 霍元甲
-http://txtest-xp2p.p2p.huya.com/src/1420752082-1420752082-6102083727913910272-3049003134-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",麦芽糖糖ぴ 虎牙下饭影院
-http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",全优少年 桃园结义三兄弟
-http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",金庸经典剧
-http://txtest-xp2p.p2p.huya.com/src/1524439846-1524439846-6547419283289276416-3049003148-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",洪金宝·经典传奇
-http://txtest-xp2p.p2p.huya.com/src/1449698705-1449698705-6226408527028551680-3049003156-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",大侠 阳光的快乐生活
-http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-3049003162-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",凌莲 你怎么看待六子哥
-http://txtest-xp2p.p2p.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",小妖孽 徐峥陶虹·春光灿烂
-http://txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",呆萌君
-http://txtest-xp2p.p2p.huya.com/src/98282154-98282154-422118637210435584-3465852224-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",阿斗归来了影史最强神剧
-http://txtest-xp2p.p2p.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",Big笑工坊
-http://txtest-xp2p.p2p.huya.com/src/22303913-22303913-95794576907829248-4413173724-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",花花与三猫CatLive
-http://txtest-xp2p.p2p.huya.com/src/94525224-2700873164-11600161910024044544-4575941946-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",桃白柏 自制四川特产香辣凉粉
-http://txtest-xp2p.p2p.huya.com/src/94525224-2701577876-11603188625017143296-299654480-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",虎牙影视厅
-http://txtest-xp2p.p2p.huya.com/src/2293368312-2293368312-9849941897722724352-4586860080-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",蛋壳宝宝
-https://txtest-xp2p.p2p.huya.com/src/1199511946075-1199511946075-5222982988475662336-2399024015606-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",南西视频
-http://txtest-xp2p.p2p.huya.com/src/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",游戏小萌主
-http://txtest-xp2p.p2p.huya.com/src/1199512047498-1199512047498-5223418596943724544-2399024218452-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",喜仔的世界, 恐怖短片
-http://txtest-xp2p.p2p.huya.com/src/1445120248-1445120248-6206744203947409408-3715489254-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",圣逗事 绝地求生真人版
-http://txtest-xp2p.p2p.huya.com/src/1199515057776-1199515057776-5236347642505592832-2399030239008-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",周星驰放映厅
-http://txtest-xp2p.p2p.huya.com/src/1099531728510-1099531728510-86331995155595264-2199063580476-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",赵方婧wimi-宅家音乐会
-http://txtest-xp2p.p2p.huya.com/src/1448061803-1448061803-6219378086471794688-3020642988-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",炊事班的故事·柴米油盐
-http://txtest-xp2p.p2p.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",军武直播
-http://txtest-xp2p.p2p.huya.com/src/1299518216864-1299518216864-10471531726831091712-2599036557184-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",猫眼下的鱼
-http://txtest-xp2p.p2p.huya.com/src/1199525077688-1199525077688-5279382836854390784-2399050278832-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",教父三部曲的影迷
-http://txtest-xp2p.p2p.huya.com/src/1099531752781-1099531752781-86436238306836480-2199063629018-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",[态度]官方节目
-http://txtest-xp2p.p2p.huya.com/src/1099531752873-1099531752873-86436633443827712-2199063629202-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",巨星专访:周星驰
-http://txtest-xp2p.p2p.huya.com/src/1199530535515-1199530535515-5302824025326616576-2399061194486-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",李子柒-轮播
-http://txtest-xp2p.p2p.huya.com/src/1199512837905-1199512837905-5226813369159254016-2399025799266-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",玩味陪你看-枪林弹雨战争片
-http://txtest-xp2p.p2p.huya.com/src/2560387-2560387-10996778430103552-5244230-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",DK陪你看-经典警匪片
-http://txtest-xp2p.p2p.huya.com/src/1199548668327-1199548668327-5380703859851132928-2399097460110-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",Dae陪你看-经典警匪片
-http://txtest-xp2p.p2p.huya.com/src/1199548705079-1199548705079-5380861708489195520-2399097533614-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",Dae陪你看-喜剧系列
-http://txtest-xp2p.p2p.huya.com/src/1199548697683-1199548697683-5380829942911074304-2399097518822-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",森林野女孩
-http://txtest-xp2p.p2p.huya.com/src/1099531785170-1099531785170-86575348002586624-2199063693796-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",酒后探真言
-http://txtest-xp2p.p2p.huya.com/src/1099531728484-1099531728484-86331883486445568-2199063580424-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",娱乐大王牌
-http://txtest-xp2p.p2p.huya.com/src/59301475-59301475-254697895729561600-3249804308-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",导演我太难了
-http://txtest-xp2p.p2p.huya.com/src/1099531740256-1099531740256-86382443841454080-2199063603968-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视",音雄请回答
-http://txtest-xp2p.p2p.huya.com/src/1259522724716-1259522724716-4712897627132264448-2519045572888-10057-A-0-1.xs
-#EXTINF:-1 group-title="说电影",电影最TOP
-http://txtest-xp2p.p2p.huya.com/src/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1.xs
-#EXTINF:-1 group-title="说电影",科幻梦工场 速看奇幻片
-http://txtest-xp2p.p2p.huya.com/src/94525224-2682536056-11521404630860824576-3512313440-10057-A-0-1.xs
-#EXTINF:-1 group-title="说电影",猎影派 动作片
-http://txtest-xp2p.p2p.huya.com/src/94525224-2704830208-11617157284592877568-4596722876-10057-A-0-1.xs
-#EXTINF:-1 group-title="说电影",电影间谍 悬疑片
-http://txtest-xp2p.p2p.huya.com/src/1421216452-1421216452-6104078181877153792-1962680342-10057-A-0-1.xs
-#EXTINF:-1 group-title="说电影",恐怖地带
-http://txtest-xp2p.p2p.huya.com/src/1444492216-1444492216-6204046827046567936-4666044768-10057-A-0-1.xs
+http://zzy789.xyz/douyu1.php?id=9110905
+#EXTINF:-1 group-title="影视",[悬疑]古今中外犯罪录
+http://zzy789.xyz/douyu1.php?id=9171887
+#EXTINF:-1 group-title="影视",山下智博来啦!绅士一分钟走起
+http://zzy789.xyz/douyu1.php?id=9186596
+#EXTINF:-1 group-title="影视",万合天宜[鲜肉老师]
+http://zzy789.xyz/douyu1.php?id=9220456
+#EXTINF:-1 group-title="影视",老邪说电影
+http://zzy789.xyz/douyu1.php?id=9222870
+#EXTINF:-1 group-title="影视",吐槽一下 快乐一天
+http://zzy789.xyz/douyu1.php?id=9236042
+#EXTINF:-1 group-title="影视",[华语厅]经典 星爷 成龙 刘德华 喜剧
+http://zzy789.xyz/douyu1.php?id=925724
+#EXTINF:-1 group-title="影视",[恐怖电影]林正英 僵尸 鬼片 经典
+http://zzy789.xyz/douyu1.php?id=9275635
+#EXTINF:-1 group-title="影视",[重案]万籁俱寂 鸦雀无声
+http://zzy789.xyz/douyu1.php?id=9290734
+#EXTINF:-1 group-title="影视",这夜空中最亮的星[步惊云]
+http://zzy789.xyz/douyu1.php?id=9290755
+#EXTINF:-1 group-title="影视",[笑场]喜剧电影专场
+http://zzy789.xyz/douyu1.php?id=9292492
+#EXTINF:-1 group-title="影视",邦德再帮我一个忙
+http://zzy789.xyz/douyu1.php?id=9292499
+#EXTINF:-1 group-title="影视",刘老根
+http://zzy789.xyz/douyu1.php?id=9356279
+#EXTINF:-1 group-title="影视",刘能赵四直播专场
+http://zzy789.xyz/douyu1.php?id=9356342
+#EXTINF:-1 group-title="影视",果子哥哥邓先森配音
+http://zzy789.xyz/douyu1.php?id=9372950
+#EXTINF:-1 group-title="影视",真香动漫解说
+http://zzy789.xyz/douyu1.php?id=9391292
+#EXTINF:-1 group-title="影视",欢乐吐槽,大白话瞎突突
+http://zzy789.xyz/douyu1.php?id=9412287
+#EXTINF:-1 group-title="影视",[娜娜酱]带你一起看动漫
+http://zzy789.xyz/douyu1.php?id=9445557
+#EXTINF:-1 group-title="影视",[贤于葛格]最会讲电影的贤于来啦
+http://zzy789.xyz/douyu1.php?id=9461990
+#EXTINF:-1 group-title="影视",楠者电影-最会讲电影的人
+http://zzy789.xyz/douyu1.php?id=9485398
+#EXTINF:-1 group-title="影视",新治愈篇美食家 点餐美食
+http://zzy789.xyz/douyu1.php?id=953193
+#EXTINF:-1 group-title="影视",[成龙历险记]最详细的解说
+http://zzy789.xyz/douyu1.php?id=9542834
+#EXTINF:-1 group-title="影视",经典电视剧 港剧
+http://zzy789.xyz/douyu1.php?id=9548850
+#EXTINF:-1 group-title="影视",经典情景喜剧轮播
+http://zzy789.xyz/douyu1.php?id=9560268
+#EXTINF:-1 group-title="影视",小瑟瑟包大人专场
+http://zzy789.xyz/douyu1.php?id=9597793
+#EXTINF:-1 group-title="影视",1000部悬疑电影
+http://zzy789.xyz/douyu1.php?id=9601429
+#EXTINF:-1 group-title="影视",庆余年 范闲 王启年
+http://zzy789.xyz/douyu1.php?id=9633542
+#EXTINF:-1 group-title="影视",全程高能 爆笑如雷
+http://zzy789.xyz/douyu1.php?id=9638983
+#EXTINF:-1 group-title="影视",乱世枭雄.顶级谋士.战神武将
+http://zzy789.xyz/douyu1.php?id=9639508
+#EXTINF:-1 group-title="影视",经典美剧.经典电影[3说电影]
+http://zzy789.xyz/douyu1.php?id=9643264
+#EXTINF:-1 group-title="影视",[雍正]
+http://zzy789.xyz/douyu1.php?id=9650836
+#EXTINF:-1 group-title="影视",[美食]舌尖上的火锅
+http://zzy789.xyz/douyu1.php?id=9650849
+#EXTINF:-1 group-title="影视",龙飞凤舞宝藏号[龙门]
+http://zzy789.xyz/douyu1.php?id=9650860
+#EXTINF:-1 group-title="影视",[小U]丧尸.鬼片.恐怖.惊悚.电影
+http://zzy789.xyz/douyu1.php?id=96577
+#EXTINF:-1 group-title="影视",全外语-科幻-冒险-惊悚
+http://zzy789.xyz/douyu1.php?id=9683979
+#EXTINF:-1 group-title="影视",爱看港剧
+http://zzy789.xyz/douyu1.php?id=9701481
+#EXTINF:-1 group-title="影视",❤小迷妹❤科幻 战争 鬼片 恐怖
+http://zzy789.xyz/douyu1.php?id=9717093
+#EXTINF:-1 group-title="影视",精彩抗战大剧
+http://zzy789.xyz/douyu1.php?id=9738876
+#EXTINF:-1 group-title="影视",避风港电影院
+http://zzy789.xyz/douyu1.php?id=9826611
+#EXTINF:-1 group-title="影视",地理美食
+http://zzy789.xyz/douyu1.php?id=9951231
+#EXTINF:-1 group-title="影视",乔巴才是海贼王
+http://zzy789.xyz/douyu1.php?id=997925
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/0d206b8b56aa4b7f635716e36fcc059b.jpeg",灵魂脱离者
+https://sod.bunediy.com/20211223/E53FqDtK/index.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/8551173a31530e8ae127933657a4f2ab.jpeg",少林寺十八罗汉
+https://cache.tkys.tv/m3u8/2aa749c2e342046aaa608538b8f9f0fa.m3u8
+#EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/09b024865d3a43a68153a532c8a88d00.jpeg",东京复仇者
+https://ukzy.ukubf2.com/20211230/cR2AuYod/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/68b45b21629f82a79b3d90efc90e484d.jpeg",沙鹰行动
 https://cache.tkys.tv/m3u8/a27839fcf1bf7a7cbf59a0e95a992de1.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/885364b20bbf5c49e0d9f4fa0035cac1.jpeg",狂刀
@@ -814,6 +648,12 @@ https://sod.bunediy.com/20211011/8xTSN5C1/index.m3u8
 https://sod.bunediy.com/20211008/p81PbYrM/index.m3u8
 #EXTINF:-1 group-title="AC动作" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b7877e53c70c1ff1bb033e1339a9d580.jpeg",怒火·重案
 https://sod.bunediy.com/20210930/sHvNIpeN/index.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/acea42e732260414ef581ff7fb5dea8d.jpeg",呼朋引伴
+https://ukzy.ukubf2.com/20220102/F1PArjff/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7d44757e940310f6346d8ee4d3379e04.jpeg",万物生灵
+https://v11.tkzyapi.com/20211226/jpPuKxyt/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/28f1601f3e8345733bd5a2878f7b959a.jpeg",狩猎行动
+https://vod10.bdzybf.com/20210923/xfS0haf1/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/34a351950195f094b2321391de86da1c.jpeg",扫黑·决战
 https://cache.tkys.tv/m3u8/e0a8fd3278d092fd39b991f3bb9a790a.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/61529f71106e9b7b27ec0d784cec3a5f.jpeg",秘密访客
@@ -886,6 +726,14 @@ https://sod.bunediy.com/20211001/nT47forK/index.m3u8
 https://sod.bunediy.com/20210930/oGlpeeDF/index.m3u8
 #EXTINF:-1 group-title="DR剧情" tvg-logo="https://pic.rmb.bdstatic.com/bjh/073c07aaa8bded1bc182dc8a5b3228cb.jpeg",老大不小之都会好的
 https://sod.bunediy.com/20210930/F1jNApGn/index.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/240c8a797c0aac358dbc653f2d839fb9.jpeg",红色火箭
+https://ukzy.ukubf2.com/20220102/ARL4c5aP/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/20e1e9549c57d18b4fc578db5affa713.jpeg",你和我一样不正常
+https://vod.bunediy.com/20210719/GOjf9PBy/index.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5223719c644a078a44520d0f92bca866.jpeg",怪兽训练营
+https://ukzy.ukubf2.com/20211223/yywmXqNd/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/2c1562001d5310d35c1fbcc96ebd8c41.jpeg",宝贝老板2
+https://www.taopianplay.com/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d963-714f-47a8-8094-714255671600/19029/aa022bdb-fbe3-4316-9c6b-ac586f3a0c66/SD/playlist.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/3fb4d9521def58da8735f915eebd5e44.jpeg",鬼同你住
 https://v11.tkzyapi.com/20211229/iWd52fWf/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="CD喜剧" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5cf1d114f23476e3f1273cd6e723469c.jpeg",烧烤之王
@@ -1002,6 +850,16 @@ https://sod.bunediy.com/20210920/uznB17e5/index.m3u8
 https://sod.bunediy.com/20210822/ibusOcUH/index.m3u8
 #EXTINF:-1 group-title="SC科幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/b10a30838c845af6b308e910b2a80edb.jpeg",丛林奇航
 https://vod.bunediy.com/20210731/htf0kjSn/index.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/28da51f416fd0bfdd4254d9a0acb1dc0.jpeg",哈利·波特20周年
+https://ukzy.ukubf2.com/20220101/HwxToQxc/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/1f38bec36dde75662370b00534b0eceb.jpeg",圣诞末班车
+https://ukzy.ukubf2.com/20220101/KQdOZ3Yo/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/e07f036b252ca212ce62d5602550a531.jpeg",求救信号
+https://sod.bunediy.com/20211225/QP06nfGl/index.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/79ed195b0909fb83919e8ce34fcfae83.jpeg",魔法满屋
+https://sod.bunediy.com/20211225/SEu8HXrW/index.m3u8
+#EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/15810fe495594f937c4de00dff51ab92.jpeg",亚当斯一家2
+https://v11.tkzyapi.com/20211011/xg5lo5Oh/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/5b109216972b6c87b4c343251627c551.jpeg",老鹰抓小鸡老鹰抓小鸡
 https://jiuzhou.so2.cc/zuidazy/%E8%80%81%E9%B9%B0%E6%8A%93%E5%B0%8F%E9%B8%A1.m3u8
 #EXTINF:-1 group-title="FT奇幻" tvg-logo="https://pic.rmb.bdstatic.com/bjh/564941b4494761cffa55f71ef3eca656.jpeg",拯救甜甜圈
