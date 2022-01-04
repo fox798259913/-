@@ -34,6 +34,232 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 tvg-id="111" group-title="MY" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 group-title="亚洲",翡翠台
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH3/3
+#EXTINF:-1 group-title="亚洲",翡翠台华丽台
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH6/6
+#EXTINF:-1 group-title="亚洲",J2
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH4/4
+#EXTINF:-1 group-title="亚洲",明珠台
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH5/5
+#EXTINF:-1 group-title="亚洲",武asian action
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH7/7
+#EXTINF:-1 group-title="亚洲",TVB星河
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH10/10
+#EXTINF:-1 group-title="亚洲",TVB翡翠台
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH12/12
+#EXTINF:-1 group-title="亚洲",无线新闻
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH14/14
+#EXTINF:-1 group-title="亚洲",无线财经
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH15/15
+#EXTINF:-1 group-title="亚洲",viutv
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH16/16
+#EXTINF:-1 group-title="亚洲",viu6
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH17/17
+#EXTINF:-1 group-title="亚洲",ch902足球
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH21/21
+#EXTINF:-1 group-title="亚洲",now直播
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH22/22
+#EXTINF:-1 group-title="亚洲",now财经
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH23/23
+#EXTINF:-1 group-title="亚洲",台视新闻
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH26/26
+#EXTINF:-1 group-title="亚洲",中天新闻
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH28/28
+#EXTINF:-1 group-title="亚洲",东森新闻
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH29/29
+#EXTINF:-1 group-title="亚洲",东森财经
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH30/30
+#EXTINF:-1 group-title="亚洲",三立inews
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH34/34
+#EXTINF:-1 group-title="亚洲",壹新闻
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH36/36
+#EXTINF:-1 group-title="亚洲",非凡新闻台
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH37/37
+#EXTINF:-1 group-title="亚洲",年代新闻
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH38/38
+#EXTINF:-1 group-title="亚洲",国家地理
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH99/99
+#EXTINF:-1 group-title="亚洲",国家地理台湾
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH100/100
+#EXTINF:-1 group-title="亚洲",国家地理野生
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH101/101
+#EXTINF:-1 group-title="亚洲",动物星球
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH102/102
+#EXTINF:-1 group-title="亚洲",DMAX
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH103/103
+#EXTINF:-1 group-title="亚洲",探索科学
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH104/104
+#EXTINF:-1 group-title="亚洲",探索亚洲
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH105/105
+#EXTINF:-1 group-title="亚洲",Crime
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH106/106
+#EXTINF:-1 group-title="亚洲",history
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH107/107
+#EXTINF:-1 group-title="亚洲",亚洲旅游
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH108/108
+#EXTINF:-1 group-title="亚洲",Discovery
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH109/109
+#EXTINF:-1 group-title="亚洲",TLC韩字
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH110/110
+#EXTINF:-1 group-title="亚洲",亚洲旅游
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH111/111
+#EXTINF:-1 group-title="亚洲",FATIONTV
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH112/112
+#EXTINF:-1 group-title="亚洲",TLC
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH113/113
+#EXTINF:-1 group-title="亚洲",中天娱乐
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH114/114
+#EXTINF:-1 group-title="亚洲",中天综合
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH115/115
+#EXTINF:-1 group-title="亚洲",中天亚洲
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH116/116
+#EXTINF:-1 group-title="亚洲",台视
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH117/117
+#EXTINF:-1 group-title="亚洲",中视
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH118/118
+#EXTINF:-1 group-title="亚洲",民视
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH119/119
+#EXTINF:-1 group-title="亚洲",民视台湾台
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH120/120
+#EXTINF:-1 group-title="亚洲",华视中天娱乐
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH121/121
+#EXTINF:-1 group-title="亚洲",公视
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH122/122
+#EXTINF:-1 group-title="亚洲",八大第一台
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH123/123
+#EXTINF:-1 group-title="亚洲",八大综合台
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH124/124
+#EXTINF:-1 group-title="亚洲",八大娱乐台
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH126/126
+#EXTINF:-1 group-title="亚洲",三立戏剧
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH128/128
+#EXTINF:-1 group-title="亚洲",三立综合
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH129/129
+#EXTINF:-1 group-title="亚洲",三立都会
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH130/130
+#EXTINF:-1 group-title="亚洲",东森综合
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH131/131
+#EXTINF:-1 group-title="亚洲",东森超视
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH133/133
+#EXTINF:-1 group-title="亚洲",龙华戏剧
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH134/134
+#EXTINF:-1 group-title="亚洲",民视第一台
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH135/135
+#EXTINF:-1 group-title="亚洲",龙华偶像
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH136/136
+#EXTINF:-1 group-title="亚洲",靖天资讯
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH138/138
+#EXTINF:-1 group-title="亚洲",靖天卡通
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH139/139
+#EXTINF:-1 group-title="亚洲",arirang
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH140/140
+#EXTINF:-1 group-title="亚洲",EYE旅游
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH141/141
+#EXTINF:-1 group-title="亚洲",EYE戏剧
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH142/142
+#EXTINF:-1 group-title="亚洲",东森yoyo
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH143/143
+#EXTINF:-1 group-title="亚洲",爱尔达影剧
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH144/144
+#EXTINF:-1 group-title="亚洲",TVBS欢乐
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH145/145
+#EXTINF:-1 group-title="亚洲",有线新闻
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
+#EXTINF:-1 group-title="亚洲",有线18
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH147/147
+#EXTINF:-1 group-title="亚洲",有线603
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH148/148
+#EXTINF:-1 group-title="亚洲",有线财经
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH149/149
+#EXTINF:-1 group-title="亚洲",HBO HD
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH77/77
+#EXTINF:-1 group-title="亚洲",HBOhits
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH78/78
+#EXTINF:-1 group-title="亚洲",好莱坞电影
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH79/79
+#EXTINF:-1 group-title="亚洲",AXN
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH81/81
+#EXTINF:-1 group-title="亚洲",大爱2
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH82/82
+#EXTINF:-1 group-title="亚洲",东森电影
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH83/83
+#EXTINF:-1 group-title="亚洲",东森洋片
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH84/84
+#EXTINF:-1 group-title="亚洲",龙华洋片
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH86/86
+#EXTINF:-1 group-title="亚洲",龙祥时代
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH87/87
+#EXTINF:-1 group-title="亚洲",卫视中文台
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH88/88
+#EXTINF:-1 group-title="亚洲",亚美电影台
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH89/89
+#EXTINF:-1 group-title="亚洲",AXN
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH96/96
+#EXTINF:-1 group-title="亚洲",no signal
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH98/98
+#EXTINF:-1 group-title="亚洲",BBC NEWS
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH39/39
+#EXTINF:-1 group-title="亚洲",CNN news
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH40/40
+#EXTINF:-1 group-title="亚洲",NBC NEWS
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH41/41
+#EXTINF:-1 group-title="亚洲",NEWS
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH42/42
+#EXTINF:-1 group-title="亚洲",NEWS
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH43/43
+#EXTINF:-1 group-title="亚洲",NEWS
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH44/44
+#EXTINF:-1 group-title="亚洲",NHK WORLD
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH45/45
+#EXTINF:-1 group-title="亚洲",FRANCE 24
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH47/47
+#EXTINF:-1 group-title="亚洲",DW NEWS
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH48/48
+#EXTINF:-1 group-title="亚洲",astro supersport
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH49/49
+#EXTINF:-1 group-title="亚洲",astro supersport2
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH50/50
+#EXTINF:-1 group-title="亚洲",astro supersport3
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH51/51
+#EXTINF:-1 group-title="亚洲",astro supersport4
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH52/52
+#EXTINF:-1 group-title="亚洲",astro supersport5
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH53/53
+#EXTINF:-1 group-title="亚洲",WWE work
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH54/54
+#EXTINF:-1 group-title="亚洲",eurosport
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH55/55
+#EXTINF:-1 group-title="亚洲",GolfChannel
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH56/56
+#EXTINF:-1 group-title="亚洲",skysports football
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH57/57
+#EXTINF:-1 group-title="亚洲",Btsport2
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH58/58
+#EXTINF:-1 group-title="亚洲",BT Sports 3
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH59/59
+#EXTINF:-1 group-title="亚洲",Btsport
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH60/60
+#EXTINF:-1 group-title="亚洲",skysports
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH62/62
+#EXTINF:-1 group-title="亚洲",skysports football
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH66/66
+#EXTINF:-1 group-title="亚洲",skysports golf
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH67/67
+#EXTINF:-1 group-title="亚洲",爱尔达体育1台
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH68/68
+#EXTINF:-1 group-title="亚洲",爱尔达体育2台
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH69/69
+#EXTINF:-1 group-title="亚洲",柏斯运动2
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH72/72
+#EXTINF:-1 group-title="亚洲",柏斯高球1
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH73/73
+#EXTINF:-1 group-title="亚洲",柏斯高球2
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH74/74
+#EXTINF:-1 group-title="亚洲",柏斯网球
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH75/75
+#EXTINF:-1 group-title="亚洲",柏斯无限
+rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH76/76
 #EXTINF:-1 group-title="影视",粤语1
 http://cloudplay.tk/api/douyu.php?id=6566671
 #EXTINF:-1 group-title="影视",粤语2
