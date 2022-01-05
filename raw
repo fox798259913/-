@@ -29,6 +29,7 @@
       "name": "电影牛",
       "type": 0,
       "api": "https://www.dianyingn.cc/api.php/provide/vod/at/xml"
+      "playUrl": "https://jx.7kjx.com/?url="
     },
     {
       "key": "嗨哆咪",
