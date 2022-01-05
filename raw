@@ -50,16 +50,16 @@
       "api": "http://www.zitv.cc/api.php/provide/vod/at/xml"
     },
     {
-      "key": "星空",
-      "name": "星空",
+      "key": "柚子",
+      "name": "柚子",
       "type": 0,
-      "api": "https://xkys.tv/api.php/provide/vod/at/xml"
+      "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml"
     },
     {
-      "key": "天空",
-      "name": "天空",
+      "key": "独播",
+      "name": "独播",
       "type": 0,
-      "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/"
+      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "唐人街",
